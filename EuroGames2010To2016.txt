@@ -1,0 +1,6755 @@
+Nr.	Date	Venue	Comp.	Result
+1.	06.01.2016	Abu Dhabi	Friendly	
+Estonia
+1:1	
+Sweden
+2.	10.01.2016	Abu Dhabi	Friendly	
+Sweden
+3:0	
+Finland
+3.	13.01.2016	Abu Dhabi	Friendly	
+Finland
+0:1	
+Iceland
+4.	16.01.2016	Dubai	Friendly	U.A.E.	2:1	
+Iceland
+5.	31.01.2016	Carson	Friendly	United States	3:2	
+Iceland
+6.	23.03.2016	Koper	Friendly	
+Slovenia
+1:0	
+Macedonia
+7.	23.03.2016	Osijek	Friendly	
+Croatia
+2:0	
+Israel
+8.	23.03.2016	Gibraltar	Friendly	
+Gibraltar
+0:0	
+Liechtenstein
+9.	23.03.2016	Giurgiu	Friendly	
+Romania
+1:0	
+Lithuania
+10.	23.03.2016	Poznań	Friendly	
+Poland
+1:0	
+Serbia
+11.	24.03.2016	Tallinn	Friendly	
+Estonia
+0:0	
+Norway
+12.	24.03.2016	Attard	Friendly	
+Malta
+0:0	
+Moldova
+13.	24.03.2016	Piraeus	Friendly	
+Greece
+2:1	
+Montenegro
+14.	24.03.2016	Antalya	Friendly	
+Turkey
+2:1	
+Sweden
+15.	24.03.2016	Odesa	Friendly	
+Ukraine
+1:0	
+Cyprus
+16.	24.03.2016	Herning	Friendly	
+Denmark
+2:1	
+Iceland
+17.	24.03.2016	Udine	Friendly	
+Italy
+1:1	
+Spain
+18.	24.03.2016	Prague	Friendly	
+Czech Republic
+0:1	
+Scotland
+19.	24.03.2016	Cardiff	Friendly	
+Wales
+1:1	
+North. Ireland
+20.	25.03.2016	Yerevan	Friendly	
+Armenia
+0:0	
+Belarus
+21.	25.03.2016	Luxembourg City	Friendly	
+Luxembourg
+0:3	
+Bosnia & Herzegovina
+22.	25.03.2016	Trnava	Friendly	
+Slovakia
+0:0	
+Latvia
+23.	25.03.2016	Dublin	Friendly	
+Rep. of Ireland
+1:0	
+Switzerland
+24.	25.03.2016	Amsterdam	Friendly	
+Netherlands
+2:3	
+France
+25.	25.03.2016	Leiria	Friendly	
+Portugal
+0:1	
+Bulgaria
+26.	26.03.2016	Wrocław	Friendly	
+Poland
+5:0	
+Finland
+27.	26.03.2016	Moscow	Friendly	
+Russia
+3:0	
+Lithuania
+28.	26.03.2016	Budapest	Friendly	
+Hungary
+1:1	
+Croatia
+29.	26.03.2016	Belek	Friendly	
+Azerbaijan
+0:1	
+Kazakhstan
+30.	26.03.2016	Vienna	Friendly	
+Austria
+2:1	
+Albania
+31.	26.03.2016	Berlin	Friendly	
+Germany
+2:3	
+England
+32.	27.03.2016	Cluj-Napoca	Friendly	
+Romania
+0:0	
+Spain
+33.	28.03.2016	Paola	Friendly	
+Andorra
+0:1	
+Moldova
+34.	28.03.2016	Kyiv	Friendly	
+Ukraine
+1:0	
+Wales
+35.	28.03.2016	Marbella	Friendly	
+Faroe Islands
+3:2	
+Liechtenstein
+36.	28.03.2016	Belfast	Friendly	
+North. Ireland
+1:0	
+Slovenia
+37.	29.03.2016	Podgorica	Friendly	
+Montenegro
+0:0	
+Belarus
+38.	29.03.2016	Zurich	Friendly	
+Switzerland
+0:2	
+Bosnia & Herzegovina
+39.	29.03.2016	Oslo	Friendly	
+Norway
+2:0	
+Finland
+40.	29.03.2016	Skopje	Friendly	
+Macedonia
+0:2	
+Bulgaria
+41.	29.03.2016	Munich	Friendly	
+Germany
+4:1	
+Italy
+42.	29.03.2016	Tallinn	Friendly	
+Estonia
+0:1	
+Serbia
+43.	29.03.2016	Tbilisi	Friendly	
+Georgia
+1:1	
+Kazakhstan
+44.	29.03.2016	Piraeus	Friendly	
+Greece
+2:3	
+Iceland
+45.	29.03.2016	Solna	Friendly	
+Sweden
+1:1	
+Czech Republic
+46.	29.03.2016	Vienna	Friendly	
+Austria
+1:2	
+Turkey
+47.	29.03.2016	Gibraltar	Friendly	
+Gibraltar
+0:5	
+Latvia
+48.	29.03.2016	Dublin	Friendly	
+Rep. of Ireland
+2:2	
+Slovakia
+49.	29.03.2016	Leiria	Friendly	
+Portugal
+2:1	
+Belgium
+50.	29.03.2016	Saint-Denis	Friendly	
+France
+4:2	
+Russia
+51.	29.03.2016	London	Friendly	
+England
+1:2	
+Netherlands
+52.	29.03.2016	Glasgow	Friendly	
+Scotland
+1:0	
+Denmark
+53.	29.03.2016	Luxembourg City	Friendly	
+Luxembourg
+0:2	
+Albania
+54.	20.05.2016	Budapest	Friendly	
+Hungary
+0:0	Côte d`Ivoire
+55.	22.05.2016	Manchester	Friendly	
+England
+2:1	
+Turkey
+56.	25.05.2016	Užice	Friendly	
+Serbia
+2:1	
+Cyprus
+57.	25.05.2016	Como	Friendly	Congo D.R.	1:1	
+Romania
+58.	26.05.2016	Bad Erlach	Friendly	
+Azerbaijan
+0:0	
+Andorra
+59.	27.05.2016	Wels	Friendly	
+Slovakia
+3:1	
+Georgia
+60.	27.05.2016	Kufstein	Friendly	
+Czech Republic
+6:0	
+Malta
+61.	27.05.2016	Dublin	Friendly	
+Rep. of Ireland
+1:1	
+Netherlands
+62.	27.05.2016	Koprivnica	Friendly	
+Croatia
+1:0	
+Moldova
+63.	27.05.2016	Sunderland	Friendly	
+England
+2:1	Australia
+64.	27.05.2016	Belfast	Friendly	
+North. Ireland
+3:0	
+Belarus
+65.	28.05.2016	Carson	Friendly	Guatemala	1:7	
+Armenia
+66.	28.05.2016	Lancy	Friendly	
+Switzerland
+1:2	
+Belgium
+67.	29.05.2016	Sankt Gallen	Friendly	
+Bosnia & Herzegovina
+1:3	
+Spain
+68.	29.05.2016	Klaipėda	BtC-26	
+Lithuania
+2:0	
+Estonia
+69.	29.05.2016	Hartberg	Friendly	
+Albania
+3:1	Qatar
+70.	29.05.2016	Bad Erlach	Friendly	
+Azerbaijan
+1:3	
+Macedonia
+71.	29.05.2016	Augsburg	Friendly	
+Germany
+1:3	
+Slovakia
+72.	29.05.2016	Turin	Friendly	
+Romania
+3:4	
+Ukraine
+73.	29.05.2016	Antalya	Friendly	
+Turkey
+1:0	
+Montenegro
+1.	15.01.2015	Abu Dhabi	Friendly	Côte d`Ivoire	0:2	
+Sweden
+2.	16.01.2015	Orlando	Friendly	Canada	1:2	
+Iceland
+3.	19.01.2015	Abu Dhabi	Friendly	
+Sweden
+0:1	
+Finland
+4.	19.01.2015	Orlando	Friendly	Canada	1:1	
+Iceland
+5.	22.01.2015	Dubai	Friendly	Yemen	0:0	
+Finland
+6.	14.02.2015	Aksu	Friendly	Romania*	2:1	
+Moldova
+7.	18.02.2015	Aksu	Friendly	
+Kazakhstan
+1:1	
+Moldova
+8.	25.03.2015	Kaiserslautern	Friendly	
+Germany
+2:2	Australia
+9.	25.03.2015	Tbilisi	Friendly	
+Georgia
+2:0	
+Malta
+10.	25.03.2015	Aarhus	Friendly	
+Denmark
+3:2	United States
+11.	25.03.2015	Glasgow	Friendly	
+Scotland
+1:0	
+North. Ireland
+12.	26.03.2015	Saint-Denis	Friendly	
+France
+1:3	Brazil
+13.	27.03.2015	Skopje	QE-15	
+Macedonia
+1:2	
+Belarus
+14.	27.03.2015	Žilina	QE-15	
+Slovakia
+3:0	
+Luxembourg
+15.	27.03.2015	Seville	QE-15	
+Spain
+1:0	
+Ukraine
+16.	27.03.2015	London	QE-15	
+England
+4:0	
+Lithuania
+17.	27.03.2015	Ljubljana	QE-15	
+Slovenia
+6:0	
+San Marino
+18.	27.03.2015	Lucerne	QE-15	
+Switzerland
+3:0	
+Estonia
+19.	27.03.2015	Vaduz	QE-15	
+Liechtenstein
+0:5	
+Austria
+20.	27.03.2015	Chișinău	QE-15	
+Moldova
+0:2	
+Sweden
+21.	27.03.2015	Podgorica	QE-15	
+Montenegro
+0:3	
+Russia
+22.	28.03.2015	Astana	QE-15	
+Kazakhstan
+0:3	
+Iceland
+23.	28.03.2015	Prague	QE-15	
+Czech Republic
+1:1	
+Latvia
+24.	28.03.2015	Haifa	QE-15	
+Israel
+0:3	
+Wales
+25.	28.03.2015	Baku	QE-15	
+Azerbaijan
+2:0	
+Malta
+26.	28.03.2015	Zagreb	QE-15	
+Croatia
+5:1	
+Norway
+27.	28.03.2015	Amsterdam	QE-15	
+Netherlands
+1:1	
+Turkey
+28.	28.03.2015	Andorra la Vella	QE-15	
+Andorra
+0:3	
+Bosnia & Herzegovina
+29.	28.03.2015	Brussels	QE-15	
+Belgium
+5:0	
+Cyprus
+30.	28.03.2015	Sofia	QE-15	
+Bulgaria
+2:2	
+Italy
+31.	29.03.2015	Tbilisi	QE-15	
+Georgia
+0:2	
+Germany
+32.	29.03.2015	Glasgow	QE-15	
+Scotland
+6:1	
+Gibraltar
+33.	29.03.2015	Belfast	QE-15	
+North. Ireland
+2:1	
+Finland
+34.	29.03.2015	Ploiești	QE-15	
+Romania
+1:0	
+Faroe Islands
+35.	29.03.2015	Elbasan	QE-15	
+Albania
+2:1	
+Armenia
+36.	29.03.2015	Dublin	QE-15	
+Rep. of Ireland
+1:1	
+Poland
+37.	29.03.2015	Budapest	QE-15	
+Hungary
+0:0	
+Greece
+38.	29.03.2015	Lisbon	QE-15	
+Portugal
+2:1	
+Serbia
+39.	29.03.2015	Saint-Étienne	Friendly	
+France
+2:0	
+Denmark
+40.	30.03.2015	Doha	Friendly	Qatar	1:0	
+Slovenia
+41.	30.03.2015	Belek	Friendly	Gabon	0:0	
+Belarus
+42.	30.03.2015	Skopje	Friendly	
+Macedonia
+0:0	Australia
+43.	31.03.2015	Khimki	Friendly	
+Russia
+0:0	
+Kazakhstan
+44.	31.03.2015	Eschen	Friendly	
+Liechtenstein
+1:0	
+San Marino
+45.	31.03.2015	Turin	Friendly	
+Italy
+1:1	
+England
+46.	31.03.2015	Žilina	Friendly	
+Slovakia
+1:0	
+Czech Republic
+47.	31.03.2015	Lviv	Friendly	
+Ukraine
+1:1	
+Latvia
+48.	31.03.2015	Tallinn	Friendly	
+Estonia
+1:1	
+Iceland
+49.	31.03.2015	Zurich	Friendly	
+Switzerland
+1:1	United States
+50.	31.03.2015	Solna	Friendly	
+Sweden
+3:1	Iran
+51.	31.03.2015	Luxembourg City	Friendly	
+Luxembourg
+1:2	
+Turkey
+52.	31.03.2015	Vienna	Friendly	
+Austria
+1:1	
+Bosnia & Herzegovina
+53.	31.03.2015	Amsterdam	Friendly	
+Netherlands
+2:0	
+Spain
+54.	31.03.2015	Estoril	Friendly	
+Portugal
+0:2	Cape Verde
+55.	31.03.2015	Jerusalem	QE-15	
+Israel
+0:1	
+Belgium
+56.	12.05.2015	Almaty	Friendly	
+Kazakhstan
+0:0	Burkina Faso
+57.	31.05.2015	Crewe	Friendly	
+North. Ireland
+1:1	Qatar
+58.	05.06.2015	Debrecen	Friendly	
+Hungary
+4:0	
+Lithuania
+59.	05.06.2015	Amsterdam	Friendly	
+Netherlands
+3:4	United States
+60.	05.06.2015	Edinburgh	Friendly	
+Scotland
+1:0	Qatar
+61.	06.06.2015	Andorra la Vella	Friendly	
+Andorra
+0:1	Equatorial Guinea
+62.	07.06.2015	Dublin	Friendly	
+Rep. of Ireland
+0:0	
+England
+63.	07.06.2015	Sankt Pölten	Friendly	
+Serbia
+4:1	
+Azerbaijan
+64.	07.06.2015	Khimki	Friendly	
+Russia
+4:2	
+Belarus
+65.	07.06.2015	Varaždín	Friendly	
+Croatia
+4:0	
+Gibraltar
+66.	07.06.2015	Saint-Denis	Friendly	
+France
+3:4	
+Belgium
+67.	08.06.2015	Istanbul	Friendly	
+Turkey
+4:0	
+Bulgaria
+68.	08.06.2015	Viborg	Friendly	
+Denmark
+2:1	
+Montenegro
+69.	08.06.2015	Oslo	Friendly	
+Norway
+0:0	
+Sweden
+70.	08.06.2015	Attard	Friendly	
+Malta
+2:0	
+Lithuania
+71.	09.06.2015	Linz	Friendly	
+Georgia
+1:2	
+Ukraine
+72.	09.06.2015	Turku	Friendly	
+Finland
+0:2	
+Estonia
+73.	09.06.2015	Luxembourg City	Friendly	
+Luxembourg
+0:0	
+Moldova
+74.	10.06.2015	Thun	Friendly	
+Switzerland
+3:0	
+Liechtenstein
+75.	10.06.2015	Cologne	Friendly	
+Germany
+1:2	United States
+76.	11.06.2015	León	Friendly	
+Spain
+2:1	Costa Rica
+77.	12.06.2015	Almaty	QE-15	
+Kazakhstan
+0:1	
+Turkey
+78.	12.06.2015	Rīga	QE-15	
+Latvia
+0:2	
+Netherlands
+79.	12.06.2015	Reykjavík	QE-15	
+Iceland
+2:1	
+Czech Republic
+80.	12.06.2015	Andorra la Vella	QE-15	
+Andorra
+1:3	
+Cyprus
+81.	12.06.2015	Cardiff	QE-15	
+Wales
+1:0	
+Belgium
+82.	12.06.2015	Attard	QE-15	
+Malta
+0:1	
+Bulgaria
+83.	12.06.2015	Zenica	QE-15	
+Bosnia & Herzegovina
+3:1	
+Israel
+84.	12.06.2015	Split	QE-15	
+Croatia
+1:1	
+Italy
+85.	12.06.2015	Oslo	QE-15	
+Norway
+0:0	
+Azerbaijan
+86.	13.06.2015	Loulé	QE-15	
+Gibraltar
+0:7	
+Germany
+87.	13.06.2015	Warsaw	QE-15	
+Poland
+4:0	
+Georgia
+88.	13.06.2015	Dublin	QE-15	
+Rep. of Ireland
+1:1	
+Scotland
+89.	13.06.2015	Helsinki	QE-15	
+Finland
+0:1	
+Hungary
+90.	13.06.2015	Yerevan	QE-15	
+Armenia
+2:3	
+Portugal
+91.	13.06.2015	Elbasan	Friendly	
+Albania
+1:0	
+France
+92.	13.06.2015	Tórshavn	QE-15	
+Faroe Islands
+2:1	
+Greece
+93.	13.06.2015	Belfast	QE-15	
+North. Ireland
+0:0	
+Romania
+94.	13.06.2015	Copenhagen	QE-15	
+Denmark
+2:0	
+Serbia
+95.	14.06.2015	Žilina	QE-15	
+Slovakia
+2:1	
+Macedonia
+96.	14.06.2015	Lviv	QE-15	
+Ukraine
+3:0	
+Luxembourg
+97.	14.06.2015	Tallinn	QE-15	
+Estonia
+2:0	
+San Marino
+98.	14.06.2015	Ljubljana	QE-15	
+Slovenia
+2:3	
+England
+99.	14.06.2015	Vaduz	QE-15	
+Liechtenstein
+1:1	
+Moldova
+100.	14.06.2015	Moscow	QE-15	
+Russia
+0:1	
+Austria
+101.	14.06.2015	Barysaw	QE-15	
+Belarus
+0:1	
+Spain
+102.	14.06.2015	Vilnius	QE-15	
+Lithuania
+1:2	
+Switzerland
+103.	14.06.2015	Solna	QE-15	
+Sweden
+3:1	
+Montenegro
+104.	16.06.2015	Lancy	Friendly	
+Italy
+0:1	
+Portugal
+105.	16.06.2015	Gdańsk	Friendly	
+Poland
+0:0	
+Greece
+106.	03.09.2015	Plzeň	QE-15	
+Czech Republic
+2:1	
+Kazakhstan
+107.	03.09.2015	Baku	QE-15	
+Azerbaijan
+0:0	
+Croatia
+108.	03.09.2015	Amsterdam	QE-15	
+Netherlands
+0:1	
+Iceland
+109.	03.09.2015	Konya	QE-15	
+Turkey
+1:1	
+Latvia
+110.	03.09.2015	Brussels	QE-15	
+Belgium
+3:1	
+Bosnia & Herzegovina
+111.	03.09.2015	Strovolos	QE-15	
+Cyprus
+0:1	
+Wales
+112.	03.09.2015	Haifa	QE-15	
+Israel
+4:0	
+Andorra
+113.	03.09.2015	Sofia	QE-15	
+Bulgaria
+0:1	
+Norway
+114.	03.09.2015	Florence	QE-15	
+Italy
+1:0	
+Malta
+115.	04.09.2015	Frankfurt am Main	QE-15	
+Germany
+3:1	
+Poland
+116.	04.09.2015	Tbilisi	QE-15	
+Georgia
+1:0	
+Scotland
+117.	04.09.2015	Loulé	QE-15	
+Gibraltar
+0:4	
+Rep. of Ireland
+118.	04.09.2015	Tórshavn	QE-15	
+Faroe Islands
+1:3	
+North. Ireland
+119.	04.09.2015	Piraeus	QE-15	
+Greece
+0:1	
+Finland
+120.	04.09.2015	Budapest	QE-15	
+Hungary
+0:0	
+Romania
+121.	04.09.2015	Copenhagen	QE-15	
+Denmark
+0:0	
+Albania
+122.	04.09.2015	Novi Sad	QE-15	
+Serbia
+2:0	
+Armenia
+123.	04.09.2015	Lisbon	Friendly	
+Portugal
+0:1	
+France
+124.	05.09.2015	Luxembourg City	QE-15	
+Luxembourg
+1:0	
+Macedonia
+125.	05.09.2015	Lviv	QE-15	
+Ukraine
+3:1	
+Belarus
+126.	05.09.2015	Tallinn	QE-15	
+Estonia
+1:0	
+Lithuania
+127.	05.09.2015	Serravalle	QE-15	
+San Marino
+0:6	
+England
+128.	05.09.2015	Moscow	QE-15	
+Russia
+1:0	
+Sweden
+129.	05.09.2015	Oviedo	QE-15	
+Spain
+2:0	
+Slovakia
+130.	05.09.2015	Basel	QE-15	
+Switzerland
+3:2	
+Slovenia
+131.	05.09.2015	Vienna	QE-15	
+Austria
+1:0	
+Moldova
+132.	05.09.2015	Podgorica	QE-15	
+Montenegro
+2:0	
+Liechtenstein
+133.	06.09.2015	Reykjavík	QE-15	
+Iceland
+0:0	
+Kazakhstan
+134.	06.09.2015	Rīga	QE-15	
+Latvia
+1:2	
+Czech Republic
+135.	06.09.2015	Konya	QE-15	
+Turkey
+3:0	
+Netherlands
+136.	06.09.2015	Cardiff	QE-15	
+Wales
+0:0	
+Israel
+137.	06.09.2015	Attard	QE-15	
+Malta
+2:2	
+Azerbaijan
+138.	06.09.2015	Oslo	QE-15	
+Norway
+2:0	
+Croatia
+139.	06.09.2015	Zenica	QE-15	
+Bosnia & Herzegovina
+3:0	
+Andorra
+140.	06.09.2015	Strovolos	QE-15	
+Cyprus
+0:1	
+Belgium
+141.	06.09.2015	Palermo	QE-15	
+Italy
+1:0	
+Bulgaria
+142.	07.09.2015	Yerevan	QE-15	
+Armenia
+0:0	
+Denmark
+143.	07.09.2015	Warsaw	QE-15	
+Poland
+8:1	
+Gibraltar
+144.	07.09.2015	Dublin	QE-15	
+Rep. of Ireland
+1:0	
+Georgia
+145.	07.09.2015	Glasgow	QE-15	
+Scotland
+2:3	
+Germany
+146.	07.09.2015	Helsinki	QE-15	
+Finland
+1:0	
+Faroe Islands
+147.	07.09.2015	Belfast	QE-15	
+North. Ireland
+1:1	
+Hungary
+148.	07.09.2015	Bucharest	QE-15	
+Romania
+0:0	
+Greece
+149.	07.09.2015	Elbasan	QE-15	
+Albania
+0:1	
+Portugal
+150.	07.09.2015	Bordeaux	Friendly	
+France
+2:1	
+Serbia
+151.	08.09.2015	Barysaw	QE-15	
+Belarus
+2:0	
+Luxembourg
+152.	08.09.2015	Skopje	QE-15	
+Macedonia
+0:1	
+Spain
+153.	08.09.2015	Žilina	QE-15	
+Slovakia
+0:0	
+Ukraine
+154.	08.09.2015	London	QE-15	
+England
+2:0	
+Switzerland
+155.	08.09.2015	Vilnius	QE-15	
+Lithuania
+2:1	
+San Marino
+156.	08.09.2015	Maribor	QE-15	
+Slovenia
+1:0	
+Estonia
+157.	08.09.2015	Vaduz	QE-15	
+Liechtenstein
+0:7	
+Russia
+158.	08.09.2015	Chișinău	QE-15	
+Moldova
+0:2	
+Montenegro
+159.	08.09.2015	Solna	QE-15	
+Sweden
+1:4	
+Austria
+160.	08.10.2015	Dublin	QE-15	
+Rep. of Ireland
+1:0	
+Germany
+161.	08.10.2015	Tbilisi	QE-15	
+Georgia
+4:0	
+Gibraltar
+162.	08.10.2015	Glasgow	QE-15	
+Scotland
+2:2	
+Poland
+163.	08.10.2015	Budapest	QE-15	
+Hungary
+2:1	
+Faroe Islands
+164.	08.10.2015	Belfast	QE-15	
+North. Ireland
+3:1	
+Greece
+165.	08.10.2015	Bucharest	QE-15	
+Romania
+1:1	
+Finland
+166.	08.10.2015	Elbasan	QE-15	
+Albania
+0:2	
+Serbia
+167.	08.10.2015	Braga	QE-15	
+Portugal
+1:0	
+Denmark
+168.	08.10.2015	Nice	Friendly	
+France
+4:0	
+Armenia
+169.	09.10.2015	Skopje	QE-15	
+Macedonia
+0:2	
+Ukraine
+170.	09.10.2015	Ljubljana	QE-15	
+Slovenia
+1:1	
+Lithuania
+171.	09.10.2015	Žilina	QE-15	
+Slovakia
+0:1	
+Belarus
+172.	09.10.2015	Logroño	QE-15	
+Spain
+4:0	
+Luxembourg
+173.	09.10.2015	London	QE-15	
+England
+2:0	
+Estonia
+174.	09.10.2015	Sankt Gallen	QE-15	
+Switzerland
+7:0	
+San Marino
+175.	09.10.2015	Vaduz	QE-15	
+Liechtenstein
+0:2	
+Sweden
+176.	09.10.2015	Chișinău	QE-15	
+Moldova
+1:2	
+Russia
+177.	09.10.2015	Podgorica	QE-15	
+Montenegro
+2:3	
+Austria
+178.	10.10.2015	Pristina	Friendly	
+Kosovo
+2:0	Equatorial Guinea
+179.	10.10.2015	Prague	QE-15	
+Czech Republic
+0:2	
+Turkey
+180.	10.10.2015	Reykjavík	QE-15	
+Iceland
+2:2	
+Latvia
+181.	10.10.2015	Astana	QE-15	
+Kazakhstan
+1:2	
+Netherlands
+182.	10.10.2015	Baku	QE-15	
+Azerbaijan
+1:3	
+Italy
+183.	10.10.2015	Oslo	QE-15	
+Norway
+2:0	
+Malta
+184.	10.10.2015	Andorra la Vella	QE-15	
+Andorra
+1:4	
+Belgium
+185.	10.10.2015	Zenica	QE-15	
+Bosnia & Herzegovina
+2:0	
+Wales
+186.	10.10.2015	Jerusalem	QE-15	
+Israel
+1:2	
+Cyprus
+187.	10.10.2015	Zagreb	QE-15	
+Croatia
+3:0	
+Bulgaria
+188.	11.10.2015	Leipzig	QE-15	
+Germany
+2:1	
+Georgia
+189.	11.10.2015	Tórshavn	QE-15	
+Faroe Islands
+0:3	
+Romania
+190.	11.10.2015	Helsinki	QE-15	
+Finland
+1:1	
+North. Ireland
+191.	11.10.2015	Piraeus	QE-15	
+Greece
+4:3	
+Hungary
+192.	11.10.2015	Yerevan	QE-15	
+Armenia
+0:3	
+Albania
+193.	11.10.2015	Belgrade	QE-15	
+Serbia
+1:2	
+Portugal
+194.	11.10.2015	Loulé	QE-15	
+Gibraltar
+0:6	
+Scotland
+195.	11.10.2015	Warsaw	QE-15	
+Poland
+2:1	
+Rep. of Ireland
+196.	11.10.2015	Copenhagen	Friendly	
+Denmark
+1:2	
+France
+197.	12.10.2015	Vienna	QE-15	
+Austria
+3:0	
+Liechtenstein
+198.	12.10.2015	Barysaw	QE-15	
+Belarus
+0:0	
+Macedonia
+199.	12.10.2015	Moscow	QE-15	
+Russia
+2:0	
+Montenegro
+200.	12.10.2015	Solna	QE-15	
+Sweden
+2:0	
+Moldova
+201.	12.10.2015	Luxembourg City	QE-15	
+Luxembourg
+2:4	
+Slovakia
+202.	12.10.2015	Kyiv	QE-15	
+Ukraine
+0:1	
+Spain
+203.	12.10.2015	Tallinn	QE-15	
+Estonia
+0:1	
+Switzerland
+204.	12.10.2015	Vilnius	QE-15	
+Lithuania
+0:3	
+England
+205.	12.10.2015	Serravalle	QE-15	
+San Marino
+0:2	
+Slovenia
+206.	13.10.2015	Rīga	QE-15	
+Latvia
+0:1	
+Kazakhstan
+207.	13.10.2015	Amsterdam	QE-15	
+Netherlands
+2:3	
+Czech Republic
+208.	13.10.2015	Konya	QE-15	
+Turkey
+1:0	
+Iceland
+209.	13.10.2015	Brussels	QE-15	
+Belgium
+3:1	
+Israel
+210.	13.10.2015	Rome	QE-15	
+Italy
+2:1	
+Norway
+211.	13.10.2015	Strovolos	QE-15	
+Cyprus
+2:3	
+Bosnia & Herzegovina
+212.	13.10.2015	Sofia	QE-15	
+Bulgaria
+2:0	
+Azerbaijan
+213.	13.10.2015	Attard	QE-15	
+Malta
+0:1	
+Croatia
+214.	13.10.2015	Cardiff	QE-15	
+Wales
+2:0	
+Andorra
+215.	11.11.2015	Istanbul	Friendly	Jordan	2:0	
+Malta
+216.	11.11.2015	Tallinn	Friendly	
+Estonia
+3:0	
+Georgia
+217.	12.11.2015	Andorra la Vella	Friendly	
+Andorra
+0:1	St. Kitts/Nevis
+218.	12.11.2015	Skopje	Friendly	
+Macedonia
+4:1	
+Montenegro
+219.	12.11.2015	Oslo	QE-15	
+Norway
+0:1	
+Hungary
+220.	13.11.2015	Pristina	Friendly	
+Kosovo
+2:2	
+Albania
+221.	13.11.2015	Warsaw	Friendly	
+Poland
+4:2	
+Iceland
+222.	13.11.2015	Doha	Friendly	Qatar	1:2	
+Turkey
+223.	13.11.2015	Oberkorn	Friendly	
+Luxembourg
+1:0	
+Greece
+224.	13.11.2015	Ostrava	Friendly	
+Czech Republic
+4:1	
+Serbia
+225.	13.11.2015	Brussels	Friendly	
+Belgium
+3:1	
+Italy
+226.	13.11.2015	Cardiff	Friendly	
+Wales
+2:3	
+Netherlands
+227.	13.11.2015	Trnava	Friendly	
+Slovakia
+3:2	
+Switzerland
+228.	13.11.2015	Zenica	QE-15	
+Bosnia & Herzegovina
+1:1	
+Rep. of Ireland
+229.	13.11.2015	Belfast	Friendly	
+North. Ireland
+1:0	
+Latvia
+230.	13.11.2015	Alicante	Friendly	
+Spain
+2:0	
+England
+231.	13.11.2015	Saint-Denis	Friendly	
+France
+2:0	
+Germany
+232.	14.11.2015	Krasnodar	Friendly	
+Russia
+1:0	
+Portugal
+233.	14.11.2015	Solna	QE-15	
+Sweden
+2:1	
+Denmark
+234.	14.11.2015	Lviv	QE-15	
+Ukraine
+2:0	
+Slovenia
+235.	15.11.2015	Budapest	QE-15	
+Hungary
+2:1	
+Norway
+236.	16.11.2015	Tirana	Friendly	
+Albania
+2:2	
+Georgia
+237.	16.11.2015	Dublin	QE-15	
+Rep. of Ireland
+2:0	
+Bosnia & Herzegovina
+238.	17.11.2015	Tallinn	Friendly	
+Estonia
+3:0	St. Kitts/Nevis
+239.	17.11.2015	Wrocław	Friendly	
+Poland
+3:1	
+Czech Republic
+240.	17.11.2015	Skopje	Friendly	
+Macedonia
+0:1	Lebanon
+241.	17.11.2015	Rostov-on-Don	Friendly	
+Russia
+1:3	
+Croatia
+242.	17.11.2015	Baku	Friendly	
+Azerbaijan
+2:1	
+Moldova
+243.	17.11.2015	Istanbul	Friendly	
+Turkey
+0:0	
+Greece
+244.	17.11.2015	Luxembourg City	Friendly	
+Luxembourg
+0:2	
+Portugal
+245.	17.11.2015	Žilina	Friendly	
+Slovakia
+3:1	
+Iceland
+246.	17.11.2015	Copenhagen	QE-15	
+Denmark
+2:2	
+Sweden
+247.	17.11.2015	Bologna	Friendly	
+Italy
+2:2	
+Romania
+248.	17.11.2015	Vienna	Friendly	
+Austria
+1:2	
+Switzerland
+249.	17.11.2015	Maribor	QE-15	
+Slovenia
+1:1	
+Ukraine
+250.	17.11.2015	London	Friendly	
+England
+2:0	
+France
+1.	15.01.2014	Abu Dhabi	Friendly	
+Moldova
+1:2	
+Norway
+2.	17.01.2014	Abu Dhabi	Friendly	
+Moldova
+1:2	
+Sweden
+3.	18.01.2014	Abu Dhabi	Friendly	
+Norway
+0:3	
+Poland
+4.	20.01.2014	Abu Dhabi	Friendly	
+Moldova
+0:1	
+Poland
+5.	21.01.2014	Abu Dhabi	Friendly	
+Iceland
+0:2	
+Sweden
+6.	24.01.2014	Nizwa	Friendly	Oman	0:0	
+Finland
+7.	01.03.2014	Gibraltar	Friendly	
+Gibraltar
+1:4	
+Faroe Islands
+8.	05.03.2014	Piraeus	Friendly	
+Greece
+0:2	South Korea
+9.	05.03.2014	Tbilisi	Friendly	
+Georgia
+2:0	
+Liechtenstein
+10.	05.03.2014	Krasnodar	Friendly	
+Russia
+2:0	
+Armenia
+11.	05.03.2014	Aksu	Friendly	
+Kazakhstan
+1:1	
+Lithuania
+12.	05.03.2014	Dubai	Friendly	Philippines	0:1	
+Azerbaijan
+13.	05.03.2014	Sofia	Friendly	
+Bulgaria
+2:1	
+Belarus
+14.	05.03.2014	Blida	Friendly	Algeria	2:0	
+Slovenia
+15.	05.03.2014	Győr	Friendly	
+Hungary
+1:2	
+Finland
+16.	05.03.2014	Podgorica	Friendly	
+Montenegro
+1:0	Ghana
+17.	05.03.2014	Mitrovica	Friendly	
+Kosovo
+0:0	Haiti
+18.	05.03.2014	Durrës	Friendly	
+Albania
+2:0	
+Malta
+19.	05.03.2014	Prague	Friendly	
+Czech Republic
+2:2	
+Norway
+20.	05.03.2014	Netanya	Friendly	
+Israel
+1:3	
+Slovakia
+21.	05.03.2014	Luxembourg City	Friendly	
+Luxembourg
+0:0	Cape Verde
+22.	05.03.2014	Innsbruck	Friendly	Egypt	2:0	
+Bosnia & Herzegovina
+23.	05.03.2014	Andorra la Vella	Friendly	
+Andorra
+0:3	
+Moldova
+24.	05.03.2014	Skopje	Friendly	
+Macedonia
+2:1	
+Latvia
+25.	05.03.2014	Strovolos	Friendly	
+Cyprus
+0:0	
+North. Ireland
+26.	05.03.2014	Ankara	Friendly	
+Turkey
+2:1	
+Sweden
+27.	05.03.2014	Bucharest	Friendly	
+Romania
+0:0	Argentina
+28.	05.03.2014	Larnaca	Friendly	
+Ukraine
+2:0	United States
+29.	05.03.2014	Stuttgart	Friendly	
+Germany
+1:0	Chile
+30.	05.03.2014	Dublin	Friendly	
+Rep. of Ireland
+1:2	
+Serbia
+31.	05.03.2014	Gibraltar	Friendly	
+Gibraltar
+0:2	
+Estonia
+32.	05.03.2014	Klagenfurt am Wörthersee	Friendly	
+Austria
+1:1	Uruguay
+33.	05.03.2014	Warsaw	Friendly	
+Poland
+0:1	
+Scotland
+34.	05.03.2014	Sankt Gallen	Friendly	
+Switzerland
+2:2	
+Croatia
+35.	05.03.2014	Brussels	Friendly	
+Belgium
+2:2	Côte d`Ivoire
+36.	05.03.2014	Cardiff	Friendly	
+Wales
+3:1	
+Iceland
+37.	05.03.2014	Saint-Denis	Friendly	
+France
+2:0	
+Netherlands
+38.	05.03.2014	London	Friendly	
+England
+1:0	
+Denmark
+39.	05.03.2014	Madrid	Friendly	
+Spain
+1:0	
+Italy
+40.	05.03.2014	Leiria	Friendly	
+Portugal
+5:1	Cameroon
+41.	26.03.2014	Alzira	Friendly	Indonesia	1:0	
+Andorra
+42.	13.05.2014	Hamburg	Friendly	
+Germany
+0:0	
+Poland
+43.	17.05.2014	Amsterdam	Friendly	
+Netherlands
+1:1	Ecuador
+44.	18.05.2014	Kapfenberg	Friendly	Iran	0:0	
+Belarus
+45.	21.05.2014	Vaduz	Friendly	
+Liechtenstein
+1:5	
+Belarus
+46.	21.05.2014	Helsinki	Friendly	
+Finland
+2:2	
+Czech Republic
+47.	21.05.2014	Mitrovica	Friendly	
+Kosovo
+1:6	Turkey*
+48.	22.05.2014	Kyiv	Friendly	
+Ukraine
+2:1	Niger
+49.	22.05.2014	Debrecen	Friendly	
+Hungary
+2:2	
+Denmark
+50.	23.05.2014	Ritzing	Friendly	Canada	1:1	
+Bulgaria
+51.	23.05.2014	Senec	Friendly	
+Slovakia
+2:0	
+Montenegro
+52.	24.05.2014	Jerez de la Frontera	Friendly	Saudi Arabia	0:4	
+Moldova
+53.	25.05.2014	Lancy	Friendly	Senegal	3:1	
+Kosovo
+54.	25.05.2014	Dublin	Friendly	
+Rep. of Ireland
+1:2	
+Turkey
+55.	26.05.2014	Harrison	Friendly	Jamaica	1:2	
+Serbia
+56.	26.05.2014	Saint Petersburg	Friendly	
+Russia
+1:0	
+Slovakia
+57.	26.05.2014	Genk	Friendly	
+Belgium
+5:1	
+Luxembourg
+58.	26.05.2014	Hartberg	Friendly	Iran	0:0	
+Montenegro
+59.	26.05.2014	Tallinn	Friendly	
+Estonia
+1:1	
+Gibraltar
+60.	26.05.2014	Kufstein	Friendly	Cameroon	2:0	
+Macedonia
+61.	27.05.2014	Saint-Denis	Friendly	
+France
+4:0	
+Norway
+62.	27.05.2014	Saitama	KCCF-3	Japan	1:0	
+Cyprus
+63.	27.05.2014	Mauer bei Amstetten	Friendly	Canada	1:1	
+Moldova
+64.	27.05.2014	Carouge	Friendly	U.A.E.	3:4	
+Armenia
+65.	27.05.2014	San Francisco	Friendly	United States	2:0	
+Azerbaijan
+66.	28.05.2014	Copenhagen	125-DBU	
+Denmark
+1:0	
+Sweden
+67.	28.05.2014	Mexico City	Friendly	Mexico	3:0	
+Israel
+68.	28.05.2014	London	Friendly	
+Scotland
+2:2	Nigeria
+69.	29.05.2014	Jerez de la Frontera	Friendly	Saudi Arabia	0:2	
+Georgia
+70.	29.05.2014	Washington	RBS	Honduras	0:2	
+Turkey
+71.	29.05.2014	Liepāja	BtC-25	
+Latvia
+0:0	
+Estonia
+72.	29.05.2014	Ventspils	BtC-25	
+Lithuania
+1:0	
+Finland
+73.	30.05.2014	Rieti	Friendly	Qatar	0:0	
+Macedonia
+74.	30.05.2014	Innsbruck	Friendly	
+Austria
+1:1	
+Iceland
+75.	30.05.2014	Lucerne	Friendly	
+Switzerland
+1:0	Jamaica
+76.	30.05.2014	London	Friendly	
+England
+3:0	Peru
+77.	30.05.2014	Seville	Friendly	
+Spain
+2:0	Bolivia
+78.	30.05.2014	Montevideo	Friendly	Uruguay	1:0	
+North. Ireland
+79.	30.05.2014	St. Louis	RBS	Côte d`Ivoire	1:2	
+Bosnia & Herzegovina
+80.	31.05.2014	Oslo	Friendly	
+Norway
+1:1	
+Russia
+81.	31.05.2014	Ventspils	BtC-25	
+Finland
+2:0	
+Estonia
+82.	31.05.2014	London	Friendly	
+Italy
+0:0	
+Rep. of Ireland
+83.	31.05.2014	Osijek	Friendly	
+Croatia
+2:1	Mali
+84.	31.05.2014	Sion	Friendly	Algeria	3:1	
+Armenia
+85.	31.05.2014	Yverdon-les-Bains	Friendly	
+Albania
+0:1	
+Romania
+86.	31.05.2014	Liepāja	BtC-25	
+Latvia
+1:0	
+Lithuania
+87.	31.05.2014	Oeiras	Friendly	
+Portugal
+0:0	
+Greece
+88.	31.05.2014	Rotterdam	Friendly	
+Netherlands
+1:0	Ghana
+89.	31.05.2014	Bridgeview	Friendly	Panama	1:1	
+Serbia
+90.	01.06.2014	Nice	Friendly	
+France
+1:1	Paraguay
+91.	01.06.2014	Mönchengladbach	Friendly	
+Germany
+2:2	Cameroon
+92.	01.06.2014	Harrison	Friendly	United States	2:1	
+Turkey
+93.	01.06.2014	Solna	Friendly	
+Sweden
+0:2	
+Belgium
+94.	01.06.2014	Houston	RBS	Honduras	2:4	
+Israel
+95.	03.06.2014	Meyrin	Friendly	U.A.E.	1:0	
+Georgia
+96.	03.06.2014	Olomouc	Friendly	
+Czech Republic
+1:2	
+Austria
+97.	03.06.2014	Lucerne	Friendly	
+Switzerland
+2:0	Peru
+98.	03.06.2014	Chester	RBS	Nigeria	0:0	
+Greece
+99.	03.06.2014	Chicago	Friendly	Mexico	0:1	
+Bosnia & Herzegovina
+100.	04.06.2014	Loulé	Friendly	
+Gibraltar
+1:0	
+Malta
+101.	04.06.2014	Budapest	Friendly	
+Hungary
+1:0	
+Albania
+102.	04.06.2014	Lancy	Friendly	Algeria	2:1	
+Romania
+103.	04.06.2014	Amsterdam	Friendly	
+Netherlands
+2:0	
+Wales
+104.	04.06.2014	Perugia	Friendly	
+Italy
+1:1	
+Luxembourg
+105.	04.06.2014	Miami Gardens	Friendly	Ecuador	2:2	
+England
+106.	04.06.2014	Reykjavík	Friendly	
+Iceland
+1:0	
+Estonia
+107.	04.06.2014	Montevideo	Friendly	Uruguay	2:0	
+Slovenia
+108.	04.06.2014	Valparaíso	Friendly	Chile	2:0	
+North. Ireland
+109.	06.06.2014	Mainz	Friendly	
+Germany
+6:1	
+Armenia
+110.	06.06.2014	São Paulo	Friendly	Brazil	1:0	
+Serbia
+111.	06.06.2014	Moscow	Friendly	
+Russia
+2:0	Morocco
+112.	06.06.2014	Gdańsk	Friendly	
+Poland
+2:1	
+Lithuania
+113.	06.06.2014	Salvador	Friendly	
+Croatia
+1:0	Australia
+114.	06.06.2014	Harrison	RBS	Bolivia	1:2	
+Greece
+115.	06.06.2014	Foxborough	Friendly	Mexico	0:1	
+Portugal
+116.	06.06.2014	Chester	Friendly	Costa Rica	1:1	
+Rep. of Ireland
+117.	07.06.2014	Miami Gardens	Friendly	
+England
+0:0	Honduras
+118.	07.06.2014	Budapest	Friendly	
+Hungary
+3:0	
+Kazakhstan
+119.	07.06.2014	Brussels	Friendly	
+Belgium
+1:0	Tunisia
+120.	07.06.2014	Tallinn	Friendly	
+Estonia
+2:1	Tadzhikistan
+121.	07.06.2014	La Plata	Friendly	Argentina	2:0	
+Slovenia
+122.	07.06.2014	Landover	RBS	Salvador	0:2	
+Spain
+123.	07.06.2014	Yaoundé	Friendly	Cameroon	1:0	
+Moldova
+124.	08.06.2014	Serravalle	Friendly	
+San Marino
+0:3	
+Albania
+125.	08.06.2014	Villeneuve d`Ascq	Friendly	
+France
+8:0	Jamaica
+126.	10.06.2014	East Rutherford	Friendly	
+Rep. of Ireland
+1:5	
+Portugal
+127.	12.06.2014	São Paulo	WC-20	Brazil	3:1	
+Croatia
+128.	13.06.2014	Nazaré	WC-20	
+Spain
+1:5	
+Netherlands
+129.	14.06.2014	Belo Horizonte	WC-20	Colombia	3:0	
+Greece
+130.	14.06.2014	Manaus	WC-20	
+England
+1:2	
+Italy
+131.	15.06.2014	Porto Alegre	WC-20	Honduras	0:3	
+France
+132.	15.06.2014	Brasília	WC-20	Ecuador	1:2	
+Switzerland
+133.	15.06.2014	Rio de Janeiro	WC-20	Argentina	2:1	
+Bosnia & Herzegovina
+134.	16.06.2014	Nazaré	WC-20	
+Germany
+4:0	
+Portugal
+135.	17.06.2014	Cuiabá	WC-20	South Korea	1:1	
+Russia
+136.	17.06.2014	Belo Horizonte	WC-20	Algeria	1:2	
+Belgium
+137.	18.06.2014	Porto Alegre	WC-20	Australia	2:3	
+Netherlands
+138.	18.06.2014	Rio de Janeiro	WC-20	Chile	2:0	
+Spain
+139.	18.06.2014	Shenyang	Friendly	China	2:0	
+Macedonia
+140.	18.06.2014	Manaus	WC-20	Cameroon	0:4	
+Croatia
+141.	19.06.2014	São Paulo	WC-20	Uruguay	2:1	
+England
+142.	19.06.2014	Lagoa Nova	WC-20	Japan	0:0	
+Greece
+143.	20.06.2014	São Lourenço da Mata	WC-20	Costa Rica	1:0	
+Italy
+144.	20.06.2014	Nazaré	WC-20	
+France
+5:2	
+Switzerland
+145.	21.06.2014	Fortaleza	WC-20	Ghana	2:2	
+Germany
+146.	21.06.2014	Cuiabá	WC-20	Nigeria	1:0	
+Bosnia & Herzegovina
+147.	22.06.2014	Rio de Janeiro	WC-20	
+Belgium
+1:0	
+Russia
+148.	22.06.2014	Jinan	Friendly	China	0:0	
+Macedonia
+149.	22.06.2014	Manaus	WC-20	United States	2:2	
+Portugal
+150.	23.06.2014	Curitiba	WC-20	Australia	0:3	
+Spain
+151.	23.06.2014	São Paulo	WC-20	Chile	0:2	
+Netherlands
+152.	23.06.2014	São Lourenço da Mata	WC-20	Mexico	3:1	
+Croatia
+153.	24.06.2014	Belo Horizonte	WC-20	Costa Rica	0:0	
+England
+154.	24.06.2014	Lagoa Nova	WC-20	Uruguay	1:0	
+Italy
+155.	24.06.2014	Fortaleza	WC-20	Côte d`Ivoire	1:2	
+Greece
+156.	25.06.2014	Nazaré	WC-20	Iran	1:3	
+Bosnia & Herzegovina
+157.	25.06.2014	Manaus	WC-20	Honduras	0:3	
+Switzerland
+158.	25.06.2014	Rio de Janeiro	WC-20	Ecuador	0:0	
+France
+159.	26.06.2014	Brasília	WC-20	Ghana	1:2	
+Portugal
+160.	26.06.2014	São Lourenço da Mata	WC-20	United States	0:1	
+Germany
+161.	26.06.2014	São Paulo	WC-20	South Korea	0:1	
+Belgium
+162.	26.06.2014	Curitiba	WC-20	Algeria	1:1	
+Russia
+163.	29.06.2014	São Lourenço da Mata	WC-20	Costa Rica	1:1	
+Greece
+164.	29.06.2014	Fortaleza	WC-20	Mexico	1:2	
+Netherlands
+165.	30.06.2014	Brasília	WC-20	Nigeria	0:2	
+France
+166.	30.06.2014	Porto Alegre	WC-20	Algeria	1:2	
+Germany
+167.	01.07.2014	São Paulo	WC-20	Argentina	1:0	
+Switzerland
+168.	01.07.2014	Nazaré	WC-20	United States	1:2	
+Belgium
+169.	04.07.2014	Rio de Janeiro	WC-20	
+France
+0:1	
+Germany
+170.	05.07.2014	Brasília	WC-20	Argentina	1:0	
+Belgium
+171.	05.07.2014	Nazaré	WC-20	Costa Rica	0:0	
+Netherlands
+172.	08.07.2014	Belo Horizonte	WC-20	Brazil	1:7	
+Germany
+173.	09.07.2014	São Paulo	WC-20	Argentina	0:0	
+Netherlands
+174.	12.07.2014	Brasília	WC-20	Brazil	0:3	
+Netherlands
+175.	13.07.2014	Rio de Janeiro	WC-20	Argentina	0:1	
+Germany
+176.	12.08.2014	Almaty	Friendly	
+Kazakhstan
+2:1	Tadzhikistan
+177.	20.08.2014	Baku	Friendly	
+Azerbaijan
+0:0	Uzbekistan
+178.	27.08.2014	Stavanger	Friendly	
+Norway
+0:0	U.A.E.
+179.	03.09.2014	Dublin	Friendly	
+Rep. of Ireland
+2:0	Oman
+180.	03.09.2014	Khimki	Friendly	
+Russia
+4:0	
+Azerbaijan
+181.	03.09.2014	Matrei in Osttirol	Friendly	U.A.E.	1:1	
+Lithuania
+182.	03.09.2014	Kyiv	Friendly	
+Ukraine
+1:0	
+Moldova
+183.	03.09.2014	Rīga	Friendly	
+Latvia
+2:0	
+Armenia
+184.	03.09.2014	Dusseldorf	Friendly	
+Germany
+2:4	Argentina
+185.	03.09.2014	Odense	Friendly	
+Denmark
+1:2	
+Turkey
+186.	03.09.2014	Prague	Friendly	
+Czech Republic
+0:1	United States
+187.	03.09.2014	London	Friendly	
+England
+1:0	
+Norway
+188.	04.09.2014	Tuzla	Friendly	
+Bosnia & Herzegovina
+3:0	
+Liechtenstein
+189.	04.09.2014	Barysaw	Friendly	
+Belarus
+6:1	Tadzhikistan
+190.	04.09.2014	Žilina	Friendly	
+Slovakia
+1:0	
+Malta
+191.	04.09.2014	Solna	Friendly	
+Sweden
+2:0	
+Estonia
+192.	04.09.2014	Pula	Friendly	
+Croatia
+2:0	
+Cyprus
+193.	04.09.2014	Liège	Friendly	
+Belgium
+2:0	Australia
+194.	04.09.2014	Bari	Friendly	
+Italy
+2:0	
+Netherlands
+195.	04.09.2014	Saint-Denis	Friendly	
+France
+1:0	
+Spain
+196.	05.09.2014	Astana	Friendly	
+Kazakhstan
+7:1	Kyrgyzstan
+197.	07.09.2014	Pristina	Friendly	
+Kosovo
+1:0	Oman
+198.	07.09.2014	Tbilisi	QE-15	
+Georgia
+1:2	
+Rep. of Ireland
+199.	07.09.2014	Budapest	QE-15	
+Hungary
+1:2	
+North. Ireland
+200.	07.09.2014	Copenhagen	QE-15	
+Denmark
+2:1	
+Armenia
+201.	07.09.2014	Dortmund	QE-15	
+Germany
+2:1	
+Scotland
+202.	07.09.2014	Loulé	QE-15	
+Gibraltar
+0:7	
+Poland
+203.	07.09.2014	Tórshavn	QE-15	
+Faroe Islands
+1:3	
+Finland
+204.	07.09.2014	Piraeus	QE-15	
+Greece
+0:1	
+Romania
+205.	07.09.2014	Aveiro	QE-15	
+Portugal
+0:1	
+Albania
+206.	07.09.2014	Belgrade	Friendly	
+Serbia
+1:1	
+France
+207.	08.09.2014	Khimki	QE-15	
+Russia
+4:0	
+Liechtenstein
+208.	08.09.2014	Luxembourg City	QE-15	
+Luxembourg
+1:1	
+Belarus
+209.	08.09.2014	Valencia	QE-15	
+Spain
+5:1	
+Macedonia
+210.	08.09.2014	Kyiv	QE-15	
+Ukraine
+0:1	
+Slovakia
+211.	08.09.2014	Tallinn	QE-15	
+Estonia
+1:0	
+Slovenia
+212.	08.09.2014	Serravalle	QE-15	
+San Marino
+0:2	
+Lithuania
+213.	08.09.2014	Basel	QE-15	
+Switzerland
+0:2	
+England
+214.	08.09.2014	Vienna	QE-15	
+Austria
+1:1	
+Sweden
+215.	08.09.2014	Podgorica	QE-15	
+Montenegro
+2:0	
+Moldova
+216.	09.09.2014	Astana	QE-15	
+Kazakhstan
+0:0	
+Latvia
+217.	09.09.2014	Baku	QE-15	
+Azerbaijan
+1:2	
+Bulgaria
+218.	09.09.2014	Prague	QE-15	
+Czech Republic
+2:1	
+Netherlands
+219.	09.09.2014	Reykjavík	QE-15	
+Iceland
+3:0	
+Turkey
+220.	09.09.2014	Andorra la Vella	QE-15	
+Andorra
+1:2	
+Wales
+221.	09.09.2014	Zenica	QE-15	
+Bosnia & Herzegovina
+1:2	
+Cyprus
+222.	09.09.2014	Zagreb	QE-15	
+Croatia
+2:0	
+Malta
+223.	09.09.2014	Oslo	QE-15	
+Norway
+0:2	
+Italy
+224.	09.10.2014	Barysaw	QE-15	
+Belarus
+0:2	
+Ukraine
+225.	09.10.2014	Skopje	QE-15	
+Macedonia
+3:2	
+Luxembourg
+226.	09.10.2014	Žilina	QE-15	
+Slovakia
+2:1	
+Spain
+227.	09.10.2014	London	QE-15	
+England
+5:0	
+San Marino
+228.	09.10.2014	Vilnius	QE-15	
+Lithuania
+1:0	
+Estonia
+229.	09.10.2014	Maribor	QE-15	
+Slovenia
+1:0	
+Switzerland
+230.	09.10.2014	Vaduz	QE-15	
+Liechtenstein
+0:0	
+Montenegro
+231.	09.10.2014	Chișinău	QE-15	
+Moldova
+1:2	
+Austria
+232.	09.10.2014	Solna	QE-15	
+Sweden
+1:1	
+Russia
+233.	10.10.2014	Rīga	QE-15	
+Latvia
+0:3	
+Iceland
+234.	10.10.2014	Amsterdam	QE-15	
+Netherlands
+3:1	
+Kazakhstan
+235.	10.10.2014	Istanbul	QE-15	
+Turkey
+1:2	
+Czech Republic
+236.	10.10.2014	Brussels	QE-15	
+Belgium
+6:0	
+Andorra
+237.	10.10.2014	Strovolos	QE-15	
+Cyprus
+1:2	
+Israel
+238.	10.10.2014	Cardiff	QE-15	
+Wales
+0:0	
+Bosnia & Herzegovina
+239.	10.10.2014	Sofia	QE-15	
+Bulgaria
+0:1	
+Croatia
+240.	10.10.2014	Palermo	QE-15	
+Italy
+2:1	
+Azerbaijan
+241.	10.10.2014	Attard	QE-15	
+Malta
+0:3	
+Norway
+242.	11.10.2014	Dublin	QE-15	
+Rep. of Ireland
+7:0	
+Gibraltar
+243.	11.10.2014	Glasgow	QE-15	
+Scotland
+1:0	
+Georgia
+244.	11.10.2014	Yerevan	QE-15	
+Armenia
+1:1	
+Serbia
+245.	11.10.2014	Bucharest	QE-15	
+Romania
+1:1	
+Hungary
+246.	11.10.2014	Warsaw	QE-15	
+Poland
+2:0	
+Germany
+247.	11.10.2014	Helsinki	QE-15	
+Finland
+1:1	
+Greece
+248.	11.10.2014	Belfast	QE-15	
+North. Ireland
+2:0	
+Faroe Islands
+249.	11.10.2014	Elbasan	QE-15	
+Albania
+1:1	
+Denmark
+250.	11.10.2014	Saint-Denis	Friendly	
+France
+2:1	
+Portugal
+251.	12.10.2014	Tallinn	QE-15	
+Estonia
+0:1	
+England
+252.	12.10.2014	Vienna	QE-15	
+Austria
+1:0	
+Montenegro
+253.	12.10.2014	Moscow	QE-15	
+Russia
+1:1	
+Moldova
+254.	12.10.2014	Lviv	QE-15	
+Ukraine
+1:0	
+Macedonia
+255.	12.10.2014	Barysaw	QE-15	
+Belarus
+1:3	
+Slovakia
+256.	12.10.2014	Luxembourg City	QE-15	
+Luxembourg
+0:4	
+Spain
+257.	12.10.2014	Vilnius	QE-15	
+Lithuania
+0:2	
+Slovenia
+258.	12.10.2014	Solna	QE-15	
+Sweden
+2:0	
+Liechtenstein
+259.	13.10.2014	Astana	QE-15	
+Kazakhstan
+2:4	
+Czech Republic
+260.	13.10.2014	Reykjavík	QE-15	
+Iceland
+2:0	
+Netherlands
+261.	13.10.2014	Rīga	QE-15	
+Latvia
+1:1	
+Turkey
+262.	13.10.2014	Andorra la Vella	QE-15	
+Andorra
+1:4	
+Israel
+263.	13.10.2014	Zenica	QE-15	
+Bosnia & Herzegovina
+1:1	
+Belgium
+264.	13.10.2014	Cardiff	QE-15	
+Wales
+2:1	
+Cyprus
+265.	13.10.2014	Osijek	QE-15	
+Croatia
+6:0	
+Azerbaijan
+266.	13.10.2014	Attard	QE-15	
+Malta
+0:1	
+Italy
+267.	13.10.2014	Oslo	QE-15	
+Norway
+2:1	
+Bulgaria
+268.	14.10.2014	Gelsenkirchen	QE-15	
+Germany
+1:1	
+Rep. of Ireland
+269.	14.10.2014	Yerevan	Friendly	
+Armenia
+0:3	
+France
+270.	14.10.2014	Loulé	QE-15	
+Gibraltar
+0:3	
+Georgia
+271.	14.10.2014	Warsaw	QE-15	
+Poland
+2:2	
+Scotland
+272.	14.10.2014	Serravalle	QE-15	
+San Marino
+0:4	
+Switzerland
+273.	14.10.2014	Tórshavn	QE-15	
+Faroe Islands
+0:1	
+Hungary
+274.	14.10.2014	Helsinki	QE-15	
+Finland
+0:2	
+Romania
+275.	14.10.2014	Piraeus	QE-15	
+Greece
+0:2	
+North. Ireland
+276.	14.10.2014	Copenhagen	QE-15	
+Denmark
+0:1	
+Portugal
+277.	14.10.2014	Belgrade	QE-15	
+Serbia
+0:3	
+Albania
+278.	12.11.2014	Oslo	Friendly	
+Norway
+0:1	
+Estonia
+279.	12.11.2014	Istanbul	Friendly	
+Turkey
+0:4	Brazil
+280.	12.11.2014	Amsterdam	Friendly	
+Netherlands
+2:3	Mexico
+281.	12.11.2014	Brussels	Friendly	
+Belgium
+3:1	
+Iceland
+282.	12.11.2014	London	Friendly	Argentina	2:1	
+Croatia
+283.	14.11.2014	Tbilisi	QE-15	
+Georgia
+0:4	
+Poland
+284.	14.11.2014	Nuremburg	QE-15	
+Germany
+4:0	
+Gibraltar
+285.	14.11.2014	Glasgow	QE-15	
+Scotland
+1:0	
+Rep. of Ireland
+286.	14.11.2014	Piraeus	QE-15	
+Greece
+0:1	
+Faroe Islands
+287.	14.11.2014	Budapest	QE-15	
+Hungary
+1:0	
+Finland
+288.	14.11.2014	Bucharest	QE-15	
+Romania
+2:0	
+North. Ireland
+289.	14.11.2014	Loulé	QE-15	
+Portugal
+1:0	
+Armenia
+290.	14.11.2014	Belgrade	QE-15	
+Serbia
+1:3	
+Denmark
+291.	14.11.2014	Rennes	Friendly	
+France
+1:1	
+Albania
+292.	15.11.2014	Luxembourg City	QE-15	
+Luxembourg
+0:3	
+Ukraine
+293.	15.11.2014	London	QE-15	
+England
+3:1	
+Slovenia
+294.	15.11.2014	Serravalle	QE-15	
+San Marino
+0:0	
+Estonia
+295.	15.11.2014	Vienna	QE-15	
+Austria
+1:0	
+Russia
+296.	15.11.2014	Chișinău	QE-15	
+Moldova
+0:1	
+Liechtenstein
+297.	15.11.2014	Skopje	QE-15	
+Macedonia
+0:2	
+Slovakia
+298.	15.11.2014	Huelva	QE-15	
+Spain
+3:0	
+Belarus
+299.	15.11.2014	Sankt Gallen	QE-15	
+Switzerland
+4:0	
+Lithuania
+300.	15.11.2014	Podgorica	QE-15	
+Montenegro
+1:1	
+Sweden
+301.	16.11.2014	Plzeň	QE-15	
+Czech Republic
+2:1	
+Iceland
+302.	16.11.2014	Amsterdam	QE-15	
+Netherlands
+6:0	
+Latvia
+303.	16.11.2014	Strovolos	QE-15	
+Cyprus
+5:0	
+Andorra
+304.	16.11.2014	Brussels	QE-15	
+Belgium
+0:0	
+Wales
+305.	16.11.2014	Baku	QE-15	
+Azerbaijan
+0:1	
+Norway
+306.	16.11.2014	Istanbul	QE-15	
+Turkey
+3:1	
+Kazakhstan
+307.	16.11.2014	Haifa	QE-15	
+Israel
+3:0	
+Bosnia & Herzegovina
+308.	16.11.2014	Sofia	QE-15	
+Bulgaria
+1:1	
+Malta
+309.	16.11.2014	Milan	QE-15	
+Italy
+1:1	
+Croatia
+310.	18.11.2014	Kyiv	Friendly	
+Ukraine
+0:0	
+Lithuania
+311.	18.11.2014	Žilina	Friendly	
+Slovakia
+2:1	
+Finland
+312.	18.11.2014	Barysaw	Friendly	
+Belarus
+3:2	Mexico
+313.	18.11.2014	Mournies	Friendly	
+Greece
+0:2	
+Serbia
+314.	18.11.2014	Ljubljana	Friendly	
+Slovenia
+0:1	Colombia
+315.	18.11.2014	Vienna	Friendly	
+Austria
+1:2	Brazil
+316.	18.11.2014	Tallinn	Friendly	
+Estonia
+1:0	Jordan
+317.	18.11.2014	Bucharest	Friendly	
+Romania
+2:0	
+Denmark
+318.	18.11.2014	Budapest	Friendly	
+Hungary
+1:2	
+Russia
+319.	18.11.2014	Wrocław	Friendly	
+Poland
+2:2	
+Switzerland
+320.	18.11.2014	Vigo	Friendly	
+Spain
+0:1	
+Germany
+321.	18.11.2014	Manchester	Friendly	Argentina	0:1	
+Portugal
+322.	18.11.2014	Dublin	Friendly	
+Rep. of Ireland
+4:1	United States
+323.	18.11.2014	Genoa	Friendly	
+Italy
+1:0	
+Albania
+324.	18.11.2014	Glasgow	Friendly	
+Scotland
+1:3	
+England
+325.	18.11.2014	Marseille	Friendly	
+France
+1:0	
+Sweden
+326.	27.12.2014	Doha	Friendly	Qatar	3:0	
+Estonia
+1.	08.01.2013	Cape Town	Friendly	South Africa	0:1	
+Norway
+2.	12.01.2013	Ndola	Friendly	Zambia	0:0	
+Norway
+3.	23.01.2013	Chiang Mai	KGC-42	North Korea	1:1	
+Sweden
+4.	23.01.2013	Chiang Mai	KGC-42	Thailand	1:3	
+Finland
+5.	26.01.2013	Chiang Mai	KGC-42	
+Finland
+0:3	
+Sweden
+6.	01.02.2013	Dubai	Friendly	Uzbekistan	0:0	
+Azerbaijan
+7.	02.02.2013	Málaga	Friendly	
+Poland
+4:1	Romania*
+8.	05.02.2013	Valence	Friendly	
+Armenia
+1:1	
+Luxembourg
+9.	06.02.2013	Kobe	KCCF-2	Japan	3:0	
+Latvia
+10.	06.02.2013	London	Friendly	South Korea	0:4	
+Croatia
+11.	06.02.2013	Dubai	Friendly	
+Azerbaijan
+1:0	
+Liechtenstein
+12.	06.02.2013	Aksu	Friendly	
+Kazakhstan
+3:1	
+Moldova
+13.	06.02.2013	Strovolos	Friendly	
+Cyprus
+1:3	
+Serbia
+14.	06.02.2013	Belek	Friendly	
+Hungary
+1:1	
+Belarus
+15.	06.02.2013	Ljubljana	Friendly	
+Slovenia
+0:3	
+Bosnia & Herzegovina
+16.	06.02.2013	Seville	Friendly	
+Norway
+0:2	
+Ukraine
+17.	06.02.2013	Netanya	Friendly	
+Israel
+2:1	
+Finland
+18.	06.02.2013	Tirana	Friendly	
+Albania
+1:2	
+Georgia
+19.	06.02.2013	Doha	Friendly	Uruguay	1:3	
+Spain
+20.	06.02.2013	Manisa	Friendly	
+Turkey
+0:2	
+Czech Republic
+21.	06.02.2013	Skopje	Friendly	
+Macedonia
+3:0	
+Denmark
+22.	06.02.2013	Attard	Friendly	
+Malta
+0:0	
+North. Ireland
+23.	06.02.2013	London	Friendly	
+England
+2:1	Brazil
+24.	06.02.2013	Amsterdam	Friendly	
+Netherlands
+1:1	
+Italy
+25.	06.02.2013	Piraeus	Friendly	
+Greece
+0:0	
+Switzerland
+26.	06.02.2013	Solna	Friendly	
+Sweden
+2:3	Argentina
+27.	06.02.2013	Marbella	Friendly	
+Iceland
+0:2	
+Russia
+28.	06.02.2013	Bruges	Friendly	
+Belgium
+2:1	
+Slovakia
+29.	06.02.2013	Swansea	Friendly	
+Wales
+2:1	
+Austria
+30.	06.02.2013	Aberdeen	Friendly	
+Scotland
+1:0	
+Estonia
+31.	06.02.2013	Dublin	Friendly	
+Rep. of Ireland
+2:0	
+Poland
+32.	06.02.2013	Málaga	Friendly	Australia	2:3	
+Romania
+33.	06.02.2013	Saint-Denis	Friendly	
+France
+1:2	
+Germany
+34.	06.02.2013	Guimarães	Friendly	
+Portugal
+2:3	Ecuador
+35.	21.02.2013	Bangkok	Friendly	Thailand*	2:0	
+Faroe Islands
+36.	21.03.2013	Amman	Friendly	Jordan	1:0	
+Belarus
+37.	21.03.2013	Lancy	Friendly	Brazil	2:2	
+Italy
+38.	22.03.2013	Ramat Gan	QW-20	
+Israel
+3:3	
+Portugal
+39.	22.03.2013	Sofia	QW-20	
+Bulgaria
+6:0	
+Malta
+40.	22.03.2013	Ljubljana	QW-20	
+Slovenia
+1:2	
+Iceland
+41.	22.03.2013	Zagreb	QW-20	
+Croatia
+2:0	
+Serbia
+42.	22.03.2013	Astana	QW-20	
+Kazakhstan
+0:3	
+Germany
+43.	22.03.2013	Oslo	QW-20	
+Norway
+0:1	
+Albania
+44.	22.03.2013	Vaduz	QW-20	
+Liechtenstein
+1:1	
+Latvia
+45.	22.03.2013	Andorra la Vella	QW-20	
+Andorra
+0:2	
+Turkey
+46.	22.03.2013	Žilina	QW-20	
+Slovakia
+1:1	
+Lithuania
+47.	22.03.2013	Luxembourg City	QW-20	
+Luxembourg
+0:0	
+Azerbaijan
+48.	22.03.2013	Vienna	QW-20	
+Austria
+6:0	
+Faroe Islands
+49.	22.03.2013	Chișinău	QW-20	
+Moldova
+0:1	
+Montenegro
+50.	22.03.2013	Olomouc	QW-20	
+Czech Republic
+0:3	
+Denmark
+51.	22.03.2013	Amsterdam	QW-20	
+Netherlands
+3:0	
+Estonia
+52.	22.03.2013	Budapest	QW-20	
+Hungary
+2:2	
+Romania
+53.	22.03.2013	Gijón	QW-20	
+Spain
+1:1	
+Finland
+54.	22.03.2013	Solna	QW-20	
+Sweden
+0:0	
+Rep. of Ireland
+55.	22.03.2013	Zenica	QW-20	
+Bosnia & Herzegovina
+3:1	
+Greece
+56.	22.03.2013	Warsaw	QW-20	
+Poland
+1:3	
+Ukraine
+57.	22.03.2013	Skopje	QW-20	
+Macedonia
+0:2	
+Belgium
+58.	22.03.2013	Serravalle	QW-20	
+San Marino
+0:8	
+England
+59.	22.03.2013	Saint-Denis	QW-20	
+France
+3:1	
+Georgia
+60.	22.03.2013	Glasgow	QW-20	
+Scotland
+1:2	
+Wales
+61.	23.03.2013	Strovolos	QW-20	
+Cyprus
+0:0	
+Switzerland
+62.	25.03.2013	London	Friendly	Brazil	1:1	
+Russia
+63.	25.03.2013	Doha	Friendly	Canada	0:2	
+Belarus
+64.	26.03.2013	Yerevan	QW-20	
+Armenia
+0:3	
+Czech Republic
+65.	26.03.2013	Baku	QW-20	
+Azerbaijan
+0:2	
+Portugal
+66.	26.03.2013	Tallinn	QW-20	
+Estonia
+2:0	
+Andorra
+67.	26.03.2013	Istanbul	QW-20	
+Turkey
+1:1	
+Hungary
+68.	26.03.2013	Luxembourg City	Friendly	
+Luxembourg
+0:3	
+Finland
+69.	26.03.2013	Odesa	QW-20	
+Ukraine
+2:1	
+Moldova
+70.	26.03.2013	Tirana	Friendly	
+Albania
+4:1	
+Lithuania
+71.	26.03.2013	Novi Sad	QW-20	
+Serbia
+2:0	
+Scotland
+72.	26.03.2013	Amsterdam	QW-20	
+Netherlands
+4:0	
+Romania
+73.	26.03.2013	Copenhagen	QW-20	
+Denmark
+1:1	
+Bulgaria
+74.	26.03.2013	Žilina	Friendly	
+Slovakia
+0:0	
+Sweden
+75.	26.03.2013	Podgorica	QW-20	
+Montenegro
+1:1	
+England
+76.	26.03.2013	Saint-Denis	QW-20	
+France
+0:1	
+Spain
+77.	26.03.2013	Dublin	QW-20	
+Rep. of Ireland
+2:2	
+Austria
+78.	26.03.2013	Warsaw	QW-20	
+Poland
+5:0	
+San Marino
+79.	26.03.2013	Brussels	QW-20	
+Belgium
+1:0	
+Macedonia
+80.	26.03.2013	Swansea	QW-20	
+Wales
+1:2	
+Croatia
+81.	26.03.2013	Belfast	QW-20	
+North. Ireland
+0:2	
+Israel
+82.	26.03.2013	Attard	QW-20	
+Malta
+0:2	
+Italy
+83.	26.03.2013	Nuremburg	QW-20	
+Germany
+4:1	
+Kazakhstan
+84.	24.05.2013	Doha	Friendly	Qatar	3:1	
+Latvia
+85.	28.05.2013	Duisburg	Friendly	
+Latvia
+3:3	
+Turkey
+86.	29.05.2013	Doha	Friendly	Qatar	1:1	
+Azerbaijan
+87.	29.05.2013	Boca Raton	Friendly	Ecuador	2:4	
+Germany
+88.	29.05.2013	London	Friendly	
+England
+1:1	
+Rep. of Ireland
+89.	29.05.2013	Cleveland	Friendly	United States	2:4	
+Belgium
+90.	30.05.2013	Toyota	KCCF-2	Japan	0:2	
+Bulgaria
+91.	31.05.2013	Bielefeld	Friendly	
+Slovenia
+2:0	
+Turkey
+92.	31.05.2013	Bologna	Friendly	
+Italy
+4:0	
+San Marino
+93.	02.06.2013	Dublin	Friendly	
+Rep. of Ireland
+4:0	
+Georgia
+94.	02.06.2013	Kyiv	Friendly	
+Ukraine
+0:0	Cameroon
+95.	02.06.2013	Washington	100-USSF	United States	4:3	
+Germany
+96.	02.06.2013	Rio de Janeiro	Friendly	Brazil	2:2	
+England
+97.	02.06.2013	New York City	Friendly	Honduras	0:2	
+Israel
+98.	03.06.2013	Tallinn	Friendly	
+Estonia
+0:2	
+Belarus
+99.	03.06.2013	Malmö	Friendly	
+Sweden
+1:0	
+Macedonia
+100.	04.06.2013	Almaty	Friendly	
+Kazakhstan
+1:2	
+Bulgaria
+101.	04.06.2013	Bucharest	Friendly	
+Romania
+4:0	Trinidad & Tobago
+102.	04.06.2013	Kraków	Friendly	
+Poland
+2:0	
+Liechtenstein
+103.	05.06.2013	Aalborg	Friendly	
+Denmark
+2:1	
+Georgia
+104.	05.06.2013	Montevideo	Friendly	Uruguay	1:0	
+France
+105.	06.06.2013	Győr	Friendly	
+Hungary
+1:0	Kuwait
+106.	07.06.2013	Jacarta	Friendly	Indonesia	0:3	
+Netherlands
+107.	07.06.2013	Baku	QW-20	
+Azerbaijan
+1:1	
+Luxembourg
+108.	07.06.2013	Yerevan	QW-20	
+Armenia
+0:1	
+Malta
+109.	07.06.2013	Helsinki	QW-20	
+Finland
+1:0	
+Belarus
+110.	07.06.2013	Rīga	QW-20	
+Latvia
+0:5	
+Bosnia & Herzegovina
+111.	07.06.2013	Tallinn	Friendly	
+Estonia
+1:0	Trinidad & Tobago
+112.	07.06.2013	Vaduz	QW-20	
+Liechtenstein
+1:1	
+Slovakia
+113.	07.06.2013	Chișinău	QW-20	
+Moldova
+1:1	
+Poland
+114.	07.06.2013	Zagreb	QW-20	
+Croatia
+0:1	
+Scotland
+115.	07.06.2013	Tirana	QW-20	
+Albania
+1:1	
+Norway
+116.	07.06.2013	Podgorica	QW-20	
+Montenegro
+0:4	
+Ukraine
+117.	07.06.2013	Prague	QW-20	
+Czech Republic
+0:0	
+Italy
+118.	07.06.2013	Dublin	QW-20	
+Rep. of Ireland
+3:0	
+Faroe Islands
+119.	07.06.2013	Brussels	QW-20	
+Belgium
+2:1	
+Serbia
+120.	07.06.2013	Vienna	QW-20	
+Austria
+2:1	
+Sweden
+121.	07.06.2013	Reykjavík	QW-20	
+Iceland
+2:4	
+Slovenia
+122.	07.06.2013	Vilnius	QW-20	
+Lithuania
+0:1	
+Greece
+123.	07.06.2013	Lisbon	QW-20	
+Portugal
+1:0	
+Russia
+124.	08.06.2013	Lancy	QW-20	
+Switzerland
+1:0	
+Cyprus
+125.	08.06.2013	Miami Gardens	Friendly	Haiti	1:2	
+Spain
+126.	09.06.2013	Porto Alegre	Friendly	Brazil	3:0	
+France
+127.	10.06.2013	Lancy	Friendly	
+Croatia
+0:1	
+Portugal
+128.	11.06.2013	Beijing	Friendly	China	0:2	
+Netherlands
+129.	11.06.2013	Oslo	Friendly	
+Norway
+2:0	
+Macedonia
+130.	11.06.2013	Gomel	QW-20	
+Belarus
+1:1	
+Finland
+131.	11.06.2013	Solna	QW-20	
+Sweden
+2:0	
+Faroe Islands
+132.	11.06.2013	Tallinn	Friendly	
+Estonia
+1:1	Kyrgyzstan
+133.	11.06.2013	Copenhagen	QW-20	
+Denmark
+0:4	
+Armenia
+134.	11.06.2013	Rio de Janeiro	Friendly	Haiti	2:2	
+Italy
+135.	11.06.2013	New York City	Friendly	
+Spain
+2:0	
+Rep. of Ireland
+136.	14.06.2013	Tiraspol	Friendly	
+Moldova
+2:1	Kyrgyzstan
+137.	16.06.2013	Rio de Janeiro	CCF-7	Mexico	1:2	
+Italy
+138.	16.06.2013	São Lourenço da Mata	CCF-7	Uruguay	1:2	
+Spain
+139.	19.06.2013	São Lourenço da Mata	CCF-7	Japan	3:4	
+Italy
+140.	20.06.2013	Rio de Janeiro	CCF-7	Tahiti	0:10	
+Spain
+141.	22.06.2013	Nazaré	CCF-7	Brazil	4:2	
+Italy
+142.	23.06.2013	Fortaleza	CCF-7	Nigeria	0:3	
+Spain
+143.	27.06.2013	Fortaleza	CCF-7	
+Italy
+0:0	
+Spain
+144.	30.06.2013	Nazaré	CCF-7	Uruguay	2:2	
+Italy
+145.	30.06.2013	Rio de Janeiro	CCF-7	Brazil	3:0	
+Spain
+146.	14.08.2013	Astana	Friendly	
+Kazakhstan
+1:0	
+Georgia
+147.	14.08.2013	Zhodzina	Friendly	
+Belarus
+1:1	
+Montenegro
+148.	14.08.2013	Tallinn	Friendly	
+Estonia
+1:1	
+Latvia
+149.	14.08.2013	Turku	Friendly	
+Finland
+2:0	
+Slovenia
+150.	14.08.2013	Baku	Friendly	
+Azerbaijan
+3:0	
+Malta
+151.	14.08.2013	Chișinău	Friendly	
+Moldova
+1:1	
+Andorra
+152.	14.08.2013	Luxembourg City	Friendly	
+Luxembourg
+2:1	
+Lithuania
+153.	14.08.2013	Solna	Friendly	
+Sweden
+4:2	
+Norway
+154.	14.08.2013	Bucharest	Friendly	
+Romania
+1:1	
+Slovakia
+155.	14.08.2013	Kyiv	Friendly	
+Ukraine
+2:0	
+Israel
+156.	14.08.2013	Barcelona	Friendly	Colombia	1:0	
+Serbia
+157.	14.08.2013	Istanbul	Friendly	
+Turkey
+2:2	Ghana
+158.	14.08.2013	Budapest	Friendly	
+Hungary
+1:1	
+Czech Republic
+159.	14.08.2013	Wals-Siezenheim	Friendly	
+Austria
+0:2	
+Greece
+160.	14.08.2013	Vaduz	Friendly	
+Liechtenstein
+2:3	
+Croatia
+161.	14.08.2013	Belfast	QW-20	
+North. Ireland
+1:0	
+Russia
+162.	14.08.2013	Sarajevo	Friendly	
+Bosnia & Herzegovina
+3:4	United States
+163.	14.08.2013	Brussels	Friendly	
+Belgium
+0:0	
+France
+164.	14.08.2013	London	Friendly	
+England
+3:2	
+Scotland
+165.	14.08.2013	Gdańsk	Friendly	
+Poland
+3:2	
+Denmark
+166.	14.08.2013	Basel	Friendly	
+Switzerland
+1:0	Brazil
+167.	14.08.2013	Kaiserslautern	Friendly	
+Germany
+3:3	Paraguay
+168.	14.08.2013	Cardiff	Friendly	
+Wales
+0:0	
+Rep. of Ireland
+169.	14.08.2013	Skopje	Friendly	
+Macedonia
+2:0	
+Bulgaria
+170.	14.08.2013	Tirana	Friendly	
+Albania
+2:0	
+Armenia
+171.	14.08.2013	Rome	Friendly	
+Italy
+1:2	Argentina
+172.	14.08.2013	Santiago de Guayaquil	Friendly	Ecuador	0:2	
+Spain
+173.	14.08.2013	Reykjavík	Friendly	
+Iceland
+1:0	
+Faroe Islands
+174.	14.08.2013	Loulé	Friendly	
+Portugal
+1:1	
+Netherlands
+175.	06.09.2013	Astana	QW-20	
+Kazakhstan
+2:1	
+Faroe Islands
+176.	06.09.2013	Kazan	QW-20	
+Russia
+4:1	
+Luxembourg
+177.	06.09.2013	Prague	QW-20	
+Czech Republic
+1:2	
+Armenia
+178.	06.09.2013	Barysaw	Friendly	
+Belarus
+3:1	Kyrgyzstan
+179.	06.09.2013	Skopje	QW-20	
+Macedonia
+2:1	
+Wales
+180.	06.09.2013	Oslo	QW-20	
+Norway
+2:0	
+Cyprus
+181.	06.09.2013	Attard	QW-20	
+Malta
+1:2	
+Denmark
+182.	06.09.2013	Lviv	QW-20	
+Ukraine
+9:0	
+San Marino
+183.	06.09.2013	Bucharest	QW-20	
+Romania
+3:0	
+Hungary
+184.	06.09.2013	Kayseri	QW-20	
+Turkey
+5:0	
+Andorra
+185.	06.09.2013	Zenica	QW-20	
+Bosnia & Herzegovina
+0:1	
+Slovakia
+186.	06.09.2013	Rīga	QW-20	
+Latvia
+2:1	
+Lithuania
+187.	06.09.2013	Tbilisi	QW-20	
+Georgia
+0:0	
+France
+188.	06.09.2013	Bern	QW-20	
+Switzerland
+4:4	
+Iceland
+189.	06.09.2013	Ljubljana	QW-20	
+Slovenia
+1:0	
+Albania
+190.	06.09.2013	Helsinki	QW-20	
+Finland
+0:2	
+Spain
+191.	06.09.2013	Tallinn	QW-20	
+Estonia
+2:2	
+Netherlands
+192.	06.09.2013	Belgrade	QW-20	
+Serbia
+1:1	
+Croatia
+193.	06.09.2013	Palermo	QW-20	
+Italy
+1:0	
+Bulgaria
+194.	06.09.2013	Belfast	QW-20	
+North. Ireland
+2:4	
+Portugal
+195.	06.09.2013	Vaduz	QW-20	
+Liechtenstein
+0:1	
+Greece
+196.	06.09.2013	Warsaw	QW-20	
+Poland
+1:1	
+Montenegro
+197.	06.09.2013	Munich	QW-20	
+Germany
+3:0	
+Austria
+198.	06.09.2013	Dublin	QW-20	
+Rep. of Ireland
+1:2	
+Sweden
+199.	06.09.2013	Glasgow	QW-20	
+Scotland
+0:2	
+Belgium
+200.	06.09.2013	London	QW-20	
+England
+4:0	
+Moldova
+201.	07.09.2013	Ramat Gan	QW-20	
+Israel
+1:1	
+Azerbaijan
+202.	10.09.2013	Saint Petersburg	QW-20	
+Russia
+3:1	
+Israel
+203.	10.09.2013	Marijampolė	QW-20	
+Lithuania
+2:0	
+Liechtenstein
+204.	10.09.2013	Yerevan	QW-20	
+Armenia
+0:1	
+Denmark
+205.	10.09.2013	Astana	QW-20	
+Kazakhstan
+0:1	
+Sweden
+206.	10.09.2013	Oslo	QW-20	
+Norway
+0:2	
+Switzerland
+207.	10.09.2013	Tbilisi	QW-20	
+Georgia
+0:1	
+Finland
+208.	10.09.2013	Attard	QW-20	
+Malta
+1:2	
+Bulgaria
+209.	10.09.2013	Bucharest	QW-20	
+Romania
+0:2	
+Turkey
+210.	10.09.2013	Luxembourg City	QW-20	
+Luxembourg
+3:2	
+North. Ireland
+211.	10.09.2013	Žilina	QW-20	
+Slovakia
+1:2	
+Bosnia & Herzegovina
+212.	10.09.2013	Budapest	QW-20	
+Hungary
+5:1	
+Estonia
+213.	10.09.2013	Andorra la Vella	QW-20	
+Andorra
+0:2	
+Netherlands
+214.	10.09.2013	Cardiff	QW-20	
+Wales
+0:3	
+Serbia
+215.	10.09.2013	Skopje	QW-20	
+Macedonia
+1:2	
+Scotland
+216.	10.09.2013	Turin	QW-20	
+Italy
+2:1	
+Czech Republic
+217.	10.09.2013	Strovolos	QW-20	
+Cyprus
+0:2	
+Slovenia
+218.	10.09.2013	Piraeus	QW-20	
+Greece
+1:0	
+Latvia
+219.	10.09.2013	Serravalle	QW-20	
+San Marino
+1:5	
+Poland
+220.	10.09.2013	Kyiv	QW-20	
+Ukraine
+0:0	
+England
+221.	10.09.2013	Vienna	QW-20	
+Austria
+1:0	
+Rep. of Ireland
+222.	10.09.2013	Tórshavn	QW-20	
+Faroe Islands
+0:3	
+Germany
+223.	10.09.2013	Reykjavík	QW-20	
+Iceland
+2:1	
+Albania
+224.	10.09.2013	Gomel	QW-20	
+Belarus
+2:4	
+France
+225.	10.09.2013	Lancy	Friendly	Chile	2:2	
+Spain
+226.	10.09.2013	Foxborough	Friendly	Brazil	3:1	
+Portugal
+227.	10.09.2013	Jeonju	Friendly	South Korea	1:2	
+Croatia
+228.	11.10.2013	Yerevan	QW-20	
+Armenia
+2:1	
+Bulgaria
+229.	11.10.2013	Vilnius	QW-20	
+Lithuania
+2:0	
+Latvia
+230.	11.10.2013	Zagreb	QW-20	
+Croatia
+1:2	
+Belgium
+231.	11.10.2013	Baku	QW-20	
+Azerbaijan
+2:0	
+North. Ireland
+232.	11.10.2013	Chișinău	QW-20	
+Moldova
+3:0	
+San Marino
+233.	11.10.2013	Tórshavn	QW-20	
+Faroe Islands
+1:1	
+Kazakhstan
+234.	11.10.2013	Novi Sad	Friendly	
+Serbia
+2:0	Japan
+235.	11.10.2013	Attard	QW-20	
+Malta
+1:4	
+Czech Republic
+236.	11.10.2013	Kharkiv	QW-20	
+Ukraine
+1:0	
+Poland
+237.	11.10.2013	Copenhagen	QW-20	
+Denmark
+2:2	
+Italy
+238.	11.10.2013	Tirana	QW-20	
+Albania
+1:2	
+Switzerland
+239.	11.10.2013	Luxembourg City	QW-20	
+Luxembourg
+0:4	
+Russia
+240.	11.10.2013	Amsterdam	QW-20	
+Netherlands
+8:1	
+Hungary
+241.	11.10.2013	Tallinn	QW-20	
+Estonia
+0:2	
+Turkey
+242.	11.10.2013	Andorra la Vella	QW-20	
+Andorra
+0:4	
+Romania
+243.	11.10.2013	Cardiff	QW-20	
+Wales
+1:0	
+Macedonia
+244.	11.10.2013	Maribor	QW-20	
+Slovenia
+3:0	
+Norway
+245.	11.10.2013	Reykjavík	QW-20	
+Iceland
+2:0	
+Cyprus
+246.	11.10.2013	Piraeus	QW-20	
+Greece
+1:0	
+Slovakia
+247.	11.10.2013	Cologne	QW-20	
+Germany
+3:0	
+Rep. of Ireland
+248.	11.10.2013	Solna	QW-20	
+Sweden
+2:1	
+Austria
+249.	11.10.2013	London	QW-20	
+England
+4:1	
+Montenegro
+250.	11.10.2013	Paris	Friendly	
+France
+6:0	Australia
+251.	11.10.2013	Zenica	QW-20	
+Bosnia & Herzegovina
+4:1	
+Liechtenstein
+252.	11.10.2013	Lisbon	QW-20	
+Portugal
+1:1	
+Israel
+253.	11.10.2013	Palma de Mallorca	QW-20	
+Spain
+2:1	
+Belarus
+254.	15.10.2013	Zhodzina	Friendly	
+Belarus
+1:0	Japan
+255.	15.10.2013	Strovolos	QW-20	
+Cyprus
+0:0	
+Albania
+256.	15.10.2013	Ramat Gan	QW-20	
+Israel
+1:1	
+North. Ireland
+257.	15.10.2013	Coimbra	QW-20	
+Portugal
+3:0	
+Luxembourg
+258.	15.10.2013	Baku	QW-20	
+Azerbaijan
+1:1	
+Russia
+259.	15.10.2013	Kaunas	QW-20	
+Lithuania
+0:1	
+Bosnia & Herzegovina
+260.	15.10.2013	Piraeus	QW-20	
+Greece
+2:0	
+Liechtenstein
+261.	15.10.2013	Bern	QW-20	
+Switzerland
+1:0	
+Slovenia
+262.	15.10.2013	Oslo	QW-20	
+Norway
+1:1	
+Iceland
+263.	15.10.2013	Istanbul	QW-20	
+Turkey
+0:2	
+Netherlands
+264.	15.10.2013	Budapest	QW-20	
+Hungary
+2:0	
+Andorra
+265.	15.10.2013	Bucharest	QW-20	
+Romania
+2:0	
+Estonia
+266.	15.10.2013	Copenhagen	QW-20	
+Denmark
+6:0	
+Malta
+267.	15.10.2013	Sofia	QW-20	
+Bulgaria
+0:1	
+Czech Republic
+268.	15.10.2013	Rīga	QW-20	
+Latvia
+2:2	
+Slovakia
+269.	15.10.2013	Jagodina	QW-20	
+Serbia
+5:1	
+Macedonia
+270.	15.10.2013	Naples	QW-20	
+Italy
+2:2	
+Armenia
+271.	15.10.2013	Solna	QW-20	
+Sweden
+3:5	
+Germany
+272.	15.10.2013	Dublin	QW-20	
+Rep. of Ireland
+3:1	
+Kazakhstan
+273.	15.10.2013	Tórshavn	QW-20	
+Faroe Islands
+0:3	
+Austria
+274.	15.10.2013	Brussels	QW-20	
+Belgium
+1:1	
+Wales
+275.	15.10.2013	Glasgow	QW-20	
+Scotland
+2:0	
+Croatia
+276.	15.10.2013	Podgorica	QW-20	
+Montenegro
+2:5	
+Moldova
+277.	15.10.2013	Serravalle	QW-20	
+San Marino
+0:8	
+Ukraine
+278.	15.10.2013	London	QW-20	
+England
+2:0	
+Poland
+279.	15.10.2013	Albacete	QW-20	
+Spain
+2:0	
+Georgia
+280.	15.10.2013	Saint-Denis	QW-20	
+France
+3:0	
+Finland
+281.	14.11.2013	Brussels	Friendly	
+Belgium
+0:2	Colombia
+282.	15.11.2013	Seoul	Friendly	South Korea	2:1	
+Switzerland
+283.	15.11.2013	Olomouc	Friendly	
+Czech Republic
+2:0	Canada
+284.	15.11.2013	Antalya	Friendly	
+Albania
+0:0	
+Belarus
+285.	15.11.2013	Dubai	Friendly	
+Russia
+1:1	
+Serbia
+286.	15.11.2013	Tallinn	Friendly	
+Estonia
+2:1	
+Azerbaijan
+287.	15.11.2013	Herning	Friendly	
+Denmark
+2:1	
+Norway
+288.	15.11.2013	Reykjavík	QW-20	
+Iceland
+0:0	
+Croatia
+289.	15.11.2013	Adana	Friendly	
+Turkey
+1:0	
+North. Ireland
+290.	15.11.2013	Lisbon	QW-20	
+Portugal
+1:0	
+Sweden
+291.	15.11.2013	Wrocław	Friendly	
+Poland
+0:2	
+Slovakia
+292.	15.11.2013	Dublin	Friendly	
+Rep. of Ireland
+3:0	
+Latvia
+293.	15.11.2013	Milan	Friendly	
+Italy
+1:1	
+Germany
+294.	15.11.2013	Kyiv	QW-20	
+Ukraine
+2:0	
+France
+295.	15.11.2013	Piraeus	QW-20	
+Greece
+3:1	
+Romania
+296.	15.11.2013	Glasgow	Friendly	
+Scotland
+0:0	United States
+297.	15.11.2013	London	Friendly	
+England
+0:2	Chile
+298.	16.11.2013	Genk	Friendly	Japan	2:2	
+Netherlands
+299.	16.11.2013	Cardiff	Friendly	
+Wales
+1:1	
+Finland
+300.	16.11.2013	Malabo	Friendly	Equatorial Guinea	1:2	
+Spain
+301.	17.11.2013	Luxembourg City	Friendly	
+Luxembourg
+1:4	
+Montenegro
+302.	18.11.2013	Chișinău	Friendly	
+Moldova
+1:1	
+Lithuania
+303.	18.11.2013	London	Friendly	Nigeria	2:2	
+Italy
+304.	18.11.2013	St. Louis	Friendly	Argentina	2:0	
+Bosnia & Herzegovina
+305.	19.11.2013	Vaduz	Friendly	
+Liechtenstein
+0:3	
+Estonia
+306.	19.11.2013	Dubai	Friendly	
+Russia
+2:1	South Korea
+307.	19.11.2013	Bishkek	Friendly	Kyrgyzstan	0:0	
+Azerbaijan
+308.	19.11.2013	Celje	Friendly	
+Slovenia
+1:0	Canada
+309.	19.11.2013	Molde	Friendly	
+Norway
+0:1	
+Scotland
+310.	19.11.2013	Attard	Friendly	
+Malta
+3:2	
+Faroe Islands
+311.	19.11.2013	Mersin	Friendly	
+Turkey
+2:1	
+Belarus
+312.	19.11.2013	Loulé	Friendly	
+Gibraltar
+0:0	
+Slovakia
+313.	19.11.2013	Bucharest	QW-20	
+Romania
+1:1	
+Greece
+314.	19.11.2013	Zagreb	QW-20	
+Croatia
+2:0	
+Iceland
+315.	19.11.2013	Amsterdam	Friendly	
+Netherlands
+0:0	Colombia
+316.	19.11.2013	Solna	QW-20	
+Sweden
+2:3	
+Portugal
+317.	19.11.2013	Vienna	Friendly	
+Austria
+1:0	United States
+318.	19.11.2013	Poznań	Friendly	
+Poland
+0:0	
+Rep. of Ireland
+319.	19.11.2013	Saint-Denis	QW-20	
+France
+3:0	
+Ukraine
+320.	19.11.2013	London	Friendly	
+England
+0:1	
+Germany
+321.	19.11.2013	Brussels	Friendly	
+Belgium
+2:3	Japan
+322.	19.11.2013	Johannesburg	Friendly	South Africa	1:0	
+Spain
+1.	15.01.2012	Bangkok	KGC-41	Denmark*	1:1	
+Norway
+2.	18.01.2012	Al Rayyan	Friendly	Bahrain	0:2	
+Sweden
+3.	18.01.2012	Bangkok	KGC-41	Thailand	0:1	
+Norway
+4.	21.01.2012	Bangkok	KGC-41	South Korea*	3:0	
+Norway
+5.	22.01.2012	Port of Spain	Friendly	Trinidad & Tobago	2:3	
+Finland
+6.	23.01.2012	Doha	Friendly	Qatar*	0:5	
+Sweden
+7.	27.01.2012	Belek	Friendly	Turkmenistan	0:4	
+Romania
+8.	24.02.2012	Osaka	KCCF	Japan	3:1	
+Iceland
+9.	24.02.2012	Dubai	Friendly	Singapore	2:2	
+Azerbaijan
+10.	27.02.2012	Dubai	Friendly	India	0:3	
+Azerbaijan
+11.	28.02.2012	Sankt Gallen	Friendly	Brazil	2:1	
+Bosnia & Herzegovina
+12.	28.02.2012	Limassol	Friendly	
+Armenia
+0:2	
+Serbia
+13.	29.02.2012	Bremen	Friendly	
+Germany
+1:2	
+France
+14.	29.02.2012	Genoa	Friendly	
+Italy
+0:1	United States
+15.	29.02.2012	Bern	Friendly	
+Switzerland
+1:3	Argentina
+16.	29.02.2012	Cardiff	Friendly	
+Wales
+0:1	Costa Rica
+17.	29.02.2012	Limassol	Friendly	
+Armenia
+3:1	Canada
+18.	29.02.2012	Belfast	Friendly	
+North. Ireland
+0:3	
+Norway
+19.	29.02.2012	Bucharest	Friendly	
+Romania
+1:1	Uruguay
+20.	29.02.2012	Győr	Friendly	
+Hungary
+1:1	
+Bulgaria
+21.	29.02.2012	Klagenfurt am Wörthersee	Friendly	
+Austria
+3:1	
+Finland
+22.	29.02.2012	Attard	Friendly	
+Malta
+2:1	
+Liechtenstein
+23.	29.02.2012	Podgorica	Friendly	
+Montenegro
+2:1	
+Iceland
+24.	29.02.2012	Koper	Friendly	
+Slovenia
+1:1	
+Scotland
+25.	29.02.2012	Copenhagen	Friendly	
+Denmark
+0:2	
+Russia
+26.	29.02.2012	London	Friendly	
+England
+2:3	
+Netherlands
+27.	29.02.2012	Tbilisi	Friendly	
+Georgia
+2:1	
+Albania
+28.	29.02.2012	Warsaw	Friendly	
+Poland
+0:0	
+Portugal
+29.	29.02.2012	Aksu	Friendly	
+Belarus
+0:0	
+Moldova
+30.	29.02.2012	Petah Tikva	Friendly	
+Israel
+2:3	
+Ukraine
+31.	29.02.2012	Los Angeles	Friendly	Salvador	0:2	
+Estonia
+32.	29.02.2012	Dublin	Friendly	
+Rep. of Ireland
+1:1	
+Czech Republic
+33.	29.02.2012	Zagreb	Friendly	
+Croatia
+1:3	
+Sweden
+34.	29.02.2012	Heraklion	Friendly	
+Greece
+1:1	
+Belgium
+35.	29.02.2012	Antalya	Friendly	
+Kazakhstan
+0:0	
+Latvia
+36.	29.02.2012	Bursa	Friendly	
+Turkey
+1:2	
+Slovakia
+37.	29.02.2012	Luxembourg City	Friendly	
+Luxembourg
+2:1	
+Macedonia
+38.	29.02.2012	Málaga	Friendly	
+Spain
+5:0	Venezuela
+39.	29.02.2012	Larnaca	Friendly	
+Cyprus
+0:0	
+Serbia
+40.	29.02.2012	Dubai	Friendly	Palestine	2:0	
+Azerbaijan
+41.	22.05.2012	Klagenfurt am Wörthersee	Friendly	
+Latvia
+0:1	
+Poland
+42.	22.05.2012	Madrid	Friendly	Qatar	1:2	
+Albania
+43.	23.05.2012	Puerto Ordaz	Friendly	Venezuela	4:0	
+Moldova
+44.	23.05.2012	Fukuroi	KCCF	Japan	2:0	
+Azerbaijan
+45.	24.05.2012	Wals-Siezenheim	Friendly	
+Georgia
+1:3	
+Turkey
+46.	25.05.2012	Moscow	Friendly	
+Russia
+1:1	Uruguay
+47.	25.05.2012	Brussels	Friendly	
+Belgium
+2:2	
+Montenegro
+48.	25.05.2012	Pula	Friendly	
+Croatia
+3:1	
+Estonia
+49.	26.05.2012	Sankt Gallen	Friendly	
+Serbia
+0:2	
+Spain
+50.	26.05.2012	Amsterdam	Friendly	
+Netherlands
+1:2	
+Bulgaria
+51.	26.05.2012	Hartberg	Friendly	
+Czech Republic
+2:1	
+Israel
+52.	26.05.2012	Wals-Siezenheim	Friendly	
+Finland
+3:2	
+Turkey
+53.	26.05.2012	Dallas	Friendly	Salvador	2:0	
+Moldova
+54.	26.05.2012	Klagenfurt am Wörthersee	Friendly	
+Poland
+1:0	
+Slovakia
+55.	26.05.2012	Basel	Friendly	
+Switzerland
+5:3	
+Germany
+56.	26.05.2012	Oslo	Friendly	
+Norway
+0:1	
+England
+57.	26.05.2012	Hamburg	Friendly	Brazil	3:1	
+Denmark
+58.	26.05.2012	Dublin	Friendly	
+Rep. of Ireland
+1:0	
+Bosnia & Herzegovina
+59.	26.05.2012	Jacksonville	Friendly	United States	5:1	
+Scotland
+60.	26.05.2012	Kufstein	Friendly	
+Greece
+1:1	
+Slovenia
+61.	26.05.2012	Leiria	Friendly	
+Portugal
+0:0	
+Macedonia
+62.	27.05.2012	East Rutherford	Friendly	Mexico	2:0	
+Wales
+63.	27.05.2012	Valenciennes	Friendly	
+France
+3:2	
+Iceland
+64.	27.05.2012	Istanbul	Friendly	Iran	0:1	
+Albania
+65.	28.05.2012	Kufstein	Friendly	
+Estonia
+0:4	
+Ukraine
+66.	29.05.2012	Nyon	Friendly	
+Lithuania
+0:0	
+Russia
+67.	29.05.2012	Wals-Siezenheim	Friendly	
+Bulgaria
+0:2	
+Turkey
+68.	29.05.2012	Estoril	Friendly	Angola	0:0	
+Macedonia
+69.	30.05.2012	Rotterdam	Friendly	
+Netherlands
+2:0	
+Slovakia
+70.	30.05.2012	Lucerne	Friendly	
+Switzerland
+0:1	
+Romania
+71.	30.05.2012	Gothenburg	Friendly	
+Sweden
+3:2	
+Iceland
+72.	30.05.2012	Bern	Friendly	South Korea	1:4	
+Spain
+73.	30.05.2012	Kelsterbach	Friendly	
+Andorra
+0:0	
+Azerbaijan
+74.	31.05.2012	Reims	Friendly	
+France
+2:0	
+Serbia
+75.	31.05.2012	Chicago	Friendly	Mexico	2:1	
+Bosnia & Herzegovina
+76.	31.05.2012	Leipzig	Friendly	
+Germany
+2:0	
+Israel
+77.	31.05.2012	Kufstein	Friendly	
+Armenia
+0:1	
+Greece
+78.	01.06.2012	Innsbruck	Friendly	
+Austria
+3:2	
+Ukraine
+79.	01.06.2012	Prague	Friendly	
+Czech Republic
+1:2	
+Hungary
+80.	01.06.2012	Zurich	Friendly	
+Italy
+0:3	
+Russia
+81.	01.06.2012	Almaty	Friendly	
+Kazakhstan
+5:2	Kyrgyzstan
+82.	01.06.2012	Võru	BtC-24	
+Latvia
+5:0	
+Lithuania
+83.	01.06.2012	Tartu	BtC-24	
+Estonia
+1:2	
+Finland
+84.	02.06.2012	Warsaw	Friendly	
+Poland
+4:0	
+Andorra
+85.	02.06.2012	Copenhagen	Friendly	
+Denmark
+2:0	Australia
+86.	02.06.2012	London	Friendly	
+England
+1:0	
+Belgium
+87.	02.06.2012	Oslo	Friendly	
+Norway
+1:1	
+Croatia
+88.	02.06.2012	Amsterdam	Friendly	
+Netherlands
+6:0	
+North. Ireland
+89.	02.06.2012	Lisbon	Friendly	
+Portugal
+1:3	
+Turkey
+90.	02.06.2012	Luxembourg City	Friendly	
+Luxembourg
+0:2	
+Malta
+91.	03.06.2012	Seville	Friendly	
+Spain
+1:0	China
+92.	03.06.2012	Võru	BtC-24	
+Finland
+1:1	
+Latvia
+93.	03.06.2012	Tartu	BtC-24	
+Estonia
+1:0	
+Lithuania
+94.	04.06.2012	Budapest	Friendly	
+Hungary
+0:0	
+Rep. of Ireland
+95.	05.06.2012	Solna	Friendly	
+Sweden
+2:1	
+Serbia
+96.	05.06.2012	Ingolstadt	Friendly	
+Turkey
+2:0	
+Ukraine
+97.	05.06.2012	Innsbruck	Friendly	
+Austria
+0:0	
+Romania
+98.	05.06.2012	Le Mans	Friendly	
+France
+4:0	
+Estonia
+99.	05.06.2012	Yerevan	Friendly	
+Armenia
+3:0	
+Kazakhstan
+100.	07.06.2012	Minsk	Friendly	
+Belarus
+1:1	
+Lithuania
+101.	08.06.2012	Warsaw	EC-14	
+Poland
+1:1	
+Greece
+102.	08.06.2012	Wroclaw	EC-14	
+Czech Republic
+1:4	
+Russia
+103.	09.06.2012	Kharkiv	EC-14	
+Denmark
+1:0	
+Netherlands
+104.	09.06.2012	Lviv	EC-14	
+Germany
+1:0	
+Portugal
+105.	10.06.2012	Gdańsk	EC-14	
+Italy
+1:1	
+Spain
+106.	10.06.2012	Poznań	EC-14	
+Croatia
+3:1	
+Rep. of Ireland
+107.	11.06.2012	Donetsk	EC-14	
+England
+1:1	
+France
+108.	11.06.2012	Kyiv	EC-14	
+Ukraine
+2:1	
+Sweden
+109.	12.06.2012	Wroclaw	EC-14	
+Czech Republic
+2:1	
+Greece
+110.	12.06.2012	Warsaw	EC-14	
+Poland
+1:1	
+Russia
+111.	13.06.2012	Lviv	EC-14	
+Denmark
+2:3	
+Portugal
+112.	13.06.2012	Kharkiv	EC-14	
+Germany
+2:1	
+Netherlands
+113.	14.06.2012	Gdańsk	EC-14	
+Rep. of Ireland
+0:4	
+Spain
+114.	14.06.2012	Poznań	EC-14	
+Croatia
+1:1	
+Italy
+115.	15.06.2012	Kyiv	EC-14	
+England
+3:2	
+Sweden
+116.	15.06.2012	Donetsk	EC-14	
+Ukraine
+0:2	
+France
+117.	16.06.2012	Wroclaw	EC-14	
+Poland
+0:1	
+Czech Republic
+118.	16.06.2012	Warsaw	EC-14	
+Greece
+1:0	
+Russia
+119.	17.06.2012	Lviv	EC-14	
+Denmark
+1:2	
+Germany
+120.	17.06.2012	Kharkiv	EC-14	
+Netherlands
+1:2	
+Portugal
+121.	18.06.2012	Gdańsk	EC-14	
+Croatia
+0:1	
+Spain
+122.	18.06.2012	Poznań	EC-14	
+Italy
+2:0	
+Rep. of Ireland
+123.	19.06.2012	Donetsk	EC-14	
+Ukraine
+0:1	
+England
+124.	19.06.2012	Kyiv	EC-14	
+France
+0:2	
+Sweden
+125.	21.06.2012	Warsaw	EC-14	
+Czech Republic
+0:1	
+Portugal
+126.	22.06.2012	Gdańsk	EC-14	
+Germany
+4:2	
+Greece
+127.	23.06.2012	Donetsk	EC-14	
+France
+0:2	
+Spain
+128.	24.06.2012	Kyiv	EC-14	
+England
+0:0	
+Italy
+129.	27.06.2012	Donetsk	EC-14	
+Portugal
+0:0	
+Spain
+130.	28.06.2012	Warsaw	EC-14	
+Germany
+1:2	
+Italy
+131.	01.07.2012	Kyiv	EC-14	
+Italy
+0:4	
+Spain
+132.	14.08.2012	Vaduz	Friendly	
+Liechtenstein
+1:0	
+Andorra
+133.	14.08.2012	Serravalle	Friendly	
+San Marino
+2:3	
+Malta
+134.	15.08.2012	Yerevan	Friendly	
+Armenia
+1:2	
+Belarus
+135.	15.08.2012	Baku	Friendly	
+Azerbaijan
+3:0	Bahrain
+136.	15.08.2012	Moscow	Friendly	
+Russia
+1:1	Côte d`Ivoire
+137.	15.08.2012	Solna	Friendly	
+Sweden
+0:3	Brazil
+138.	15.08.2012	Lviv	Friendly	
+Ukraine
+0:0	
+Czech Republic
+139.	15.08.2012	Oslo	Friendly	
+Norway
+2:3	
+Greece
+140.	15.08.2012	Differdange	Friendly	
+Luxembourg
+1:2	
+Georgia
+141.	15.08.2012	Sofia	Friendly	
+Bulgaria
+1:0	
+Cyprus
+142.	15.08.2012	Frankfurt am Main	Friendly	
+Germany
+1:3	Argentina
+143.	15.08.2012	Tallinn	Friendly	
+Estonia
+1:0	
+Poland
+144.	15.08.2012	Brussels	Friendly	
+Belgium
+4:2	
+Netherlands
+145.	15.08.2012	Podgorica	Friendly	
+Montenegro
+2:0	
+Latvia
+146.	15.08.2012	Belfast	Friendly	
+North. Ireland
+3:3	
+Finland
+147.	15.08.2012	Le Havre	Friendly	
+France
+0:0	Uruguay
+148.	15.08.2012	Odense	Friendly	
+Denmark
+1:3	
+Slovakia
+149.	15.08.2012	Split	Friendly	
+Croatia
+2:4	
+Switzerland
+150.	15.08.2012	Budapest	Friendly	
+Hungary
+1:1	
+Israel
+151.	15.08.2012	Llanelli	Friendly	
+Wales
+0:2	
+Bosnia & Herzegovina
+152.	15.08.2012	Edinburgh	Friendly	
+Scotland
+3:1	Australia
+153.	15.08.2012	Bayamón	Friendly	Puerto Rico	1:2	
+Spain
+154.	15.08.2012	Skopje	Friendly	
+Macedonia
+1:0	
+Lithuania
+155.	15.08.2012	Tirana	Friendly	
+Albania
+0:0	
+Moldova
+156.	15.08.2012	Reykjavík	Friendly	
+Iceland
+2:0	
+Faroe Islands
+157.	15.08.2012	Ljubljana	Friendly	
+Slovenia
+4:3	
+Romania
+158.	15.08.2012	Vienna	Friendly	
+Austria
+2:0	
+Turkey
+159.	15.08.2012	Bern	Friendly	
+England
+2:1	
+Italy
+160.	15.08.2012	Belgrade	Friendly	
+Serbia
+0:0	
+Rep. of Ireland
+161.	15.08.2012	Loulé	Friendly	
+Portugal
+2:0	Panama
+162.	06.09.2012	Helsingborg	Friendly	
+Sweden
+1:0	China
+163.	07.09.2012	Amsterdam	QW-20	
+Netherlands
+2:0	
+Turkey
+164.	07.09.2012	Reykjavík	QW-20	
+Iceland
+2:0	
+Norway
+165.	07.09.2012	Moscow	QW-20	
+Russia
+2:0	
+North. Ireland
+166.	07.09.2012	Vaduz	QW-20	
+Liechtenstein
+1:8	
+Bosnia & Herzegovina
+167.	07.09.2012	Cardiff	QW-20	
+Wales
+0:2	
+Belgium
+168.	07.09.2012	Attard	QW-20	
+Malta
+0:1	
+Armenia
+169.	07.09.2012	Zagreb	QW-20	
+Croatia
+1:0	
+Macedonia
+170.	07.09.2012	Ljubljana	QW-20	
+Slovenia
+0:2	
+Switzerland
+171.	07.09.2012	Tirana	QW-20	
+Albania
+3:1	
+Cyprus
+172.	07.09.2012	Podgorica	QW-20	
+Montenegro
+2:2	
+Poland
+173.	07.09.2012	Astana	QW-20	
+Kazakhstan
+1:2	
+Rep. of Ireland
+174.	07.09.2012	Andorra la Vella	QW-20	
+Andorra
+0:5	
+Hungary
+175.	07.09.2012	Luxembourg City	QW-20	
+Luxembourg
+1:2	
+Portugal
+176.	07.09.2012	Hannover	QW-20	
+Germany
+3:0	
+Faroe Islands
+177.	07.09.2012	Baku	QW-20	
+Azerbaijan
+1:1	
+Israel
+178.	07.09.2012	Tbilisi	QW-20	
+Georgia
+1:0	
+Belarus
+179.	07.09.2012	Tallinn	QW-20	
+Estonia
+0:2	
+Romania
+180.	07.09.2012	Vilnius	QW-20	
+Lithuania
+1:1	
+Slovakia
+181.	07.09.2012	Rīga	QW-20	
+Latvia
+1:2	
+Greece
+182.	07.09.2012	Helsinki	QW-20	
+Finland
+0:1	
+France
+183.	07.09.2012	Sofia	QW-20	
+Bulgaria
+2:2	
+Italy
+184.	07.09.2012	Chișinău	QW-20	
+Moldova
+0:5	
+England
+185.	07.09.2012	Pontevedra	Friendly	
+Spain
+5:0	Saudi Arabia
+186.	08.09.2012	Glasgow	QW-20	
+Scotland
+0:0	
+Serbia
+187.	08.09.2012	Copenhagen	QW-20	
+Denmark
+0:0	
+Czech Republic
+188.	11.09.2012	Teplice	Friendly	
+Czech Republic
+0:1	
+Finland
+189.	11.09.2012	Oslo	QW-20	
+Norway
+2:1	
+Slovenia
+190.	11.09.2012	Larnaca	QW-20	
+Cyprus
+1:0	
+Iceland
+191.	11.09.2012	Ramat Gan	QW-20	
+Israel
+0:4	
+Russia
+192.	11.09.2012	Zenica	QW-20	
+Bosnia & Herzegovina
+4:1	
+Latvia
+193.	11.09.2012	Bucharest	QW-20	
+Romania
+4:0	
+Andorra
+194.	11.09.2012	Sofia	QW-20	
+Bulgaria
+1:0	
+Armenia
+195.	11.09.2012	Istanbul	QW-20	
+Turkey
+3:0	
+Estonia
+196.	11.09.2012	Tbilisi	QW-20	
+Georgia
+0:1	
+Spain
+197.	11.09.2012	Malmö	QW-20	
+Sweden
+2:0	
+Kazakhstan
+198.	11.09.2012	Belfast	QW-20	
+North. Ireland
+1:1	
+Luxembourg
+199.	11.09.2012	Glasgow	QW-20	
+Scotland
+1:1	
+Macedonia
+200.	11.09.2012	London	QW-20	
+England
+1:1	
+Ukraine
+201.	11.09.2012	Bratislava	QW-20	
+Slovakia
+2:0	
+Liechtenstein
+202.	11.09.2012	Novi Sad	QW-20	
+Serbia
+6:1	
+Wales
+203.	11.09.2012	Piraeus	QW-20	
+Greece
+2:0	
+Lithuania
+204.	11.09.2012	Serravalle	QW-20	
+San Marino
+0:6	
+Montenegro
+205.	11.09.2012	Vienna	QW-20	
+Austria
+1:2	
+Germany
+206.	11.09.2012	Budapest	QW-20	
+Hungary
+1:4	
+Netherlands
+207.	11.09.2012	Brussels	QW-20	
+Belgium
+1:1	
+Croatia
+208.	11.09.2012	Modena	QW-20	
+Italy
+2:0	
+Malta
+209.	11.09.2012	Wroclaw	QW-20	
+Poland
+2:0	
+Moldova
+210.	11.09.2012	Saint-Denis	QW-20	
+France
+3:1	
+Belarus
+211.	11.09.2012	Lucerne	QW-20	
+Switzerland
+2:0	
+Albania
+212.	11.09.2012	Braga	QW-20	
+Portugal
+3:0	
+Azerbaijan
+213.	11.09.2012	London	Friendly	Oman	1:4	
+Rep. of Ireland
+214.	12.10.2012	Moscow	QW-20	
+Russia
+1:0	
+Portugal
+215.	12.10.2012	Helsinki	QW-20	
+Finland
+1:1	
+Georgia
+216.	12.10.2012	Plzeň	QW-20	
+Czech Republic
+3:1	
+Malta
+217.	12.10.2012	Astana	QW-20	
+Kazakhstan
+0:0	
+Austria
+218.	12.10.2012	Tórshavn	QW-20	
+Faroe Islands
+1:2	
+Sweden
+219.	12.10.2012	Tirana	QW-20	
+Albania
+1:2	
+Iceland
+220.	12.10.2012	Yerevan	QW-20	
+Armenia
+1:3	
+Italy
+221.	12.10.2012	Istanbul	QW-20	
+Turkey
+0:1	
+Romania
+222.	12.10.2012	Vaduz	QW-20	
+Liechtenstein
+0:2	
+Lithuania
+223.	12.10.2012	Chișinău	QW-20	
+Moldova
+0:0	
+Ukraine
+224.	12.10.2012	Minsk	QW-20	
+Belarus
+0:4	
+Spain
+225.	12.10.2012	Belgrade	QW-20	
+Serbia
+0:3	
+Belgium
+226.	12.10.2012	Bern	QW-20	
+Switzerland
+1:1	
+Norway
+227.	12.10.2012	Skopje	QW-20	
+Macedonia
+1:2	
+Croatia
+228.	12.10.2012	Sofia	QW-20	
+Bulgaria
+1:1	
+Denmark
+229.	12.10.2012	Tallinn	QW-20	
+Estonia
+0:1	
+Hungary
+230.	12.10.2012	Rotterdam	QW-20	
+Netherlands
+3:0	
+Andorra
+231.	12.10.2012	Bratislava	QW-20	
+Slovakia
+2:1	
+Latvia
+232.	12.10.2012	Warsaw	Friendly	
+Poland
+1:0	South Africa
+233.	12.10.2012	Maribor	QW-20	
+Slovenia
+2:1	
+Cyprus
+234.	12.10.2012	Dublin	QW-20	
+Rep. of Ireland
+1:6	
+Germany
+235.	12.10.2012	Piraeus	QW-20	
+Greece
+0:0	
+Bosnia & Herzegovina
+236.	12.10.2012	London	QW-20	
+England
+5:0	
+San Marino
+237.	12.10.2012	Cardiff	QW-20	
+Wales
+2:1	
+Scotland
+238.	12.10.2012	Luxembourg City	QW-20	
+Luxembourg
+0:6	
+Israel
+239.	12.10.2012	Saint-Denis	Friendly	
+France
+0:1	Japan
+240.	16.10.2012	Moscow	QW-20	
+Russia
+1:0	
+Azerbaijan
+241.	16.10.2012	Ramat Gan	QW-20	
+Israel
+3:0	
+Luxembourg
+242.	16.10.2012	Minsk	QW-20	
+Belarus
+2:0	
+Georgia
+243.	16.10.2012	Andorra la Vella	QW-20	
+Andorra
+0:1	
+Estonia
+244.	16.10.2012	Rīga	QW-20	
+Latvia
+2:0	
+Liechtenstein
+245.	16.10.2012	Larnaca	QW-20	
+Cyprus
+1:3	
+Norway
+246.	16.10.2012	Osijek	QW-20	
+Croatia
+2:0	
+Wales
+247.	16.10.2012	Prague	QW-20	
+Czech Republic
+0:0	
+Bulgaria
+248.	16.10.2012	Tórshavn	QW-20	
+Faroe Islands
+1:4	
+Rep. of Ireland
+249.	16.10.2012	Bucharest	QW-20	
+Romania
+1:4	
+Netherlands
+250.	16.10.2012	Zenica	QW-20	
+Bosnia & Herzegovina
+3:0	
+Lithuania
+251.	16.10.2012	Kyiv	QW-20	
+Ukraine
+0:1	
+Montenegro
+252.	16.10.2012	Reykjavík	QW-20	
+Iceland
+0:2	
+Switzerland
+253.	16.10.2012	Skopje	QW-20	
+Macedonia
+1:0	
+Serbia
+254.	16.10.2012	Vienna	QW-20	
+Austria
+4:0	
+Kazakhstan
+255.	16.10.2012	Budapest	QW-20	
+Hungary
+3:1	
+Turkey
+256.	16.10.2012	Bratislava	QW-20	
+Slovakia
+0:1	
+Greece
+257.	16.10.2012	Serravalle	QW-20	
+San Marino
+0:2	
+Moldova
+258.	16.10.2012	Brussels	QW-20	
+Belgium
+2:0	
+Scotland
+259.	16.10.2012	Tirana	QW-20	
+Albania
+1:0	
+Slovenia
+260.	16.10.2012	Milan	QW-20	
+Italy
+3:1	
+Denmark
+261.	16.10.2012	Berlin	QW-20	
+Germany
+4:4	
+Sweden
+262.	16.10.2012	Madrid	QW-20	
+Spain
+1:1	
+France
+263.	16.10.2012	Porto	QW-20	
+Portugal
+1:1	
+North. Ireland
+264.	17.10.2012	Warsaw	QW-20	
+Poland
+1:1	
+England
+265.	08.11.2012	Muscat	Friendly	Oman	1:2	
+Estonia
+266.	14.11.2012	Tbilisi	Friendly	
+Georgia
+0:0	Egypt
+267.	14.11.2012	Krasnodar	Friendly	
+Russia
+2:2	United States
+268.	14.11.2012	Yerevan	Friendly	
+Armenia
+4:2	
+Lithuania
+269.	14.11.2012	Bucharest	Friendly	
+Romania
+2:1	
+Belgium
+270.	14.11.2012	Sofia	Friendly	
+Bulgaria
+0:1	
+Ukraine
+271.	14.11.2012	Abu Dhabi	Friendly	U.A.E.	2:1	
+Estonia
+272.	14.11.2012	Podgorica	QW-20	
+Montenegro
+3:0	
+San Marino
+273.	14.11.2012	Olomouc	Friendly	
+Czech Republic
+3:0	
+Slovakia
+274.	14.11.2012	Strovolos	Friendly	
+Cyprus
+0:3	
+Finland
+275.	14.11.2012	Algiers	Friendly	Algeria	0:1	
+Bosnia & Herzegovina
+276.	14.11.2012	Skopje	Friendly	
+Macedonia
+3:2	
+Slovenia
+277.	14.11.2012	Vaduz	Friendly	
+Liechtenstein
+0:1	
+Malta
+278.	14.11.2012	Andorra la Vella	Friendly	
+Andorra
+0:2	
+Iceland
+279.	14.11.2012	Sousse	Friendly	Tunisia	1:2	
+Switzerland
+280.	14.11.2012	Jerusalem	Friendly	
+Israel
+1:2	
+Belarus
+281.	14.11.2012	Sankt Gallen	Friendly	Chile	1:3	
+Serbia
+282.	14.11.2012	Istanbul	Friendly	
+Turkey
+1:1	
+Denmark
+283.	14.11.2012	Luxembourg City	Friendly	
+Luxembourg
+1:2	
+Scotland
+284.	14.11.2012	Solna	Friendly	
+Sweden
+4:2	
+England
+285.	14.11.2012	Belfast	QW-20	
+North. Ireland
+1:1	
+Azerbaijan
+286.	14.11.2012	Amsterdam	Friendly	
+Netherlands
+0:0	
+Germany
+287.	14.11.2012	Parma	Friendly	
+Italy
+1:2	
+France
+288.	14.11.2012	Budapest	Friendly	
+Hungary
+0:2	
+Norway
+289.	14.11.2012	Linz	Friendly	
+Austria
+0:3	Côte d`Ivoire
+290.	14.11.2012	Libreville	Friendly	Gabon	2:2	
+Portugal
+291.	14.11.2012	Lancy	Friendly	
+Albania
+0:0	Cameroon
+292.	14.11.2012	Dublin	Friendly	
+Rep. of Ireland
+0:1	
+Greece
+293.	14.11.2012	Gdańsk	Friendly	
+Poland
+1:3	Uruguay
+294.	14.11.2012	Panama City	Friendly	Panama	1:5	
+Spain
+295.	14.12.2012	Aksu	Friendly	
+Macedonia
+1:4	
+Poland
+1.	19.01.2011	Cape Town	Friendly	Botswana	1:2	
+Sweden
+2.	22.01.2011	Mbombela	Friendly	South Africa*	1:1	
+Sweden
+3.	06.02.2011	Vila Real de Santo António	Friendly	
+Moldova
+0:1	
+Poland
+4.	08.02.2011	Strovolos	CIT-14	
+Cyprus
+0:2	
+Sweden
+5.	08.02.2011	Dublin	CNC-1	
+Rep. of Ireland
+3:0	
+Wales
+6.	08.02.2011	Paralimni	CIT-14	
+Romania
+2:2	
+Ukraine
+7.	09.02.2011	Tirana	Friendly	
+Albania
+1:2	
+Slovenia
+8.	09.02.2011	Limassol	Friendly	
+Armenia
+1:2	
+Georgia
+9.	09.02.2011	Eindhoven	Friendly	
+Netherlands
+3:1	
+Austria
+10.	09.02.2011	Lagos	Friendly	
+Andorra
+1:2	
+Moldova
+11.	09.02.2011	Dubai	Friendly	
+Azerbaijan
+0:2	
+Hungary
+12.	09.02.2011	Antalya	Friendly	
+Belarus
+1:1	
+Kazakhstan
+13.	09.02.2011	Ghent	Friendly	
+Belgium
+1:1	
+Finland
+14.	09.02.2011	Atlanta	Friendly	Mexico	2:0	
+Bosnia & Herzegovina
+15.	09.02.2011	Pula	Friendly	
+Croatia
+4:2	
+Czech Republic
+16.	09.02.2011	Paralimni	CIT-14	
+Cyprus
+1:1	
+Romania
+17.	09.02.2011	Copenhagen	Friendly	
+Denmark
+1:2	
+England
+18.	09.02.2011	Dortmund	Friendly	
+Germany
+1:1	
+Italy
+19.	09.02.2011	Saint-Denis	Friendly	
+France
+1:0	Brazil
+20.	09.02.2011	Larissa	Friendly	
+Greece
+1:0	Canada
+21.	09.02.2011	Tel Aviv	Friendly	
+Israel
+0:2	
+Serbia
+22.	09.02.2011	Aksu	Friendly	Bolivia	1:2	
+Latvia
+23.	09.02.2011	Serravalle	Friendly	
+San Marino
+0:1	
+Liechtenstein
+24.	09.02.2011	Luxembourg City	Friendly	
+Luxembourg
+2:1	
+Slovakia
+25.	09.02.2011	Skopje	Friendly	
+Macedonia
+0:1	Cameroon
+26.	09.02.2011	Attard	Friendly	
+Malta
+0:0	
+Switzerland
+27.	09.02.2011	Dublin	CNC-1	
+North. Ireland
+0:3	
+Scotland
+28.	09.02.2011	Loulé	Friendly	
+Poland
+1:0	
+Norway
+29.	09.02.2011	Lancy	Friendly	Argentina	2:1	
+Portugal
+30.	09.02.2011	Abu Dhabi	Friendly	Iran	1:0	
+Russia
+31.	09.02.2011	Madrid	AFE	
+Spain
+1:0	Colombia
+32.	09.02.2011	Strovolos	CIT-14	
+Sweden
+1:1	
+Ukraine
+33.	09.02.2011	Trabzon	Friendly	
+Turkey
+0:0	South Korea
+34.	25.03.2011	Vienna	QE-14	
+Austria
+0:2	
+Belgium
+35.	25.03.2011	Granada	QE-14	
+Spain
+2:1	
+Czech Republic
+36.	25.03.2011	Tallinn	Friendly	
+Estonia
+2:0	Uruguay
+37.	25.03.2011	Luxembourg City	QE-14	
+Luxembourg
+0:2	
+France
+38.	25.03.2011	Budapest	QE-14	
+Hungary
+0:4	
+Netherlands
+39.	25.03.2011	Ljubljana	QE-14	
+Slovenia
+0:1	
+Italy
+40.	25.03.2011	Kaunas	Friendly	
+Lithuania
+2:0	
+Poland
+41.	25.03.2011	Podgorica	Friendly	
+Montenegro
+1:0	Uzbekistan
+42.	25.03.2011	Belgrade	QE-14	
+Serbia
+2:1	
+North. Ireland
+43.	26.03.2011	Tirana	QE-14	
+Albania
+1:0	
+Belarus
+44.	26.03.2011	Yerevan	QE-14	
+Armenia
+0:0	
+Russia
+45.	26.03.2011	Andorra la Vella	QE-14	
+Andorra
+0:1	
+Slovakia
+46.	26.03.2011	Sofia	QE-14	
+Bulgaria
+0:0	
+Switzerland
+47.	26.03.2011	Zenica	QE-14	
+Bosnia & Herzegovina
+2:1	
+Romania
+48.	26.03.2011	Tbilisi	QE-14	
+Georgia
+1:0	
+Croatia
+49.	26.03.2011	Strovolos	QE-14	
+Cyprus
+0:0	
+Iceland
+50.	26.03.2011	Oslo	QE-14	
+Norway
+1:1	
+Denmark
+51.	26.03.2011	Cardiff	QE-14	
+Wales
+0:2	
+England
+52.	26.03.2011	Kaiserslautern	QE-14	
+Germany
+4:0	
+Kazakhstan
+53.	26.03.2011	Attard	QE-14	
+Malta
+0:1	
+Greece
+54.	26.03.2011	Tel Aviv	QE-14	
+Israel
+2:1	
+Latvia
+55.	26.03.2011	Dublin	QE-14	
+Rep. of Ireland
+2:1	
+Macedonia
+56.	26.03.2011	Leiria	Friendly	
+Portugal
+1:1	Chile
+57.	27.03.2011	London	Friendly	Brazil	2:0	
+Scotland
+58.	29.03.2011	Istanbul	QE-14	
+Turkey
+2:0	
+Austria
+59.	29.03.2011	Brussels	QE-14	
+Belgium
+4:1	
+Azerbaijan
+60.	29.03.2011	Antalya	Friendly	Canada	1:0	
+Belarus
+61.	29.03.2011	Larnaca	Friendly	
+Cyprus
+0:1	
+Bulgaria
+62.	29.03.2011	Saint-Denis	Friendly	
+France
+0:0	
+Croatia
+63.	29.03.2011	Trnava	Friendly	
+Slovakia
+1:2	
+Denmark
+64.	29.03.2011	České Budějovice	QE-14	
+Czech Republic
+2:0	
+Liechtenstein
+65.	29.03.2011	London	Friendly	
+England
+1:1	Ghana
+66.	29.03.2011	Tallinn	QE-14	
+Estonia
+1:1	
+Serbia
+67.	29.03.2011	Mönchengladbach	Friendly	
+Germany
+1:2	Australia
+68.	29.03.2011	Aveiro	Friendly	
+Portugal
+2:0	
+Finland
+69.	29.03.2011	Tel Aviv	QE-14	
+Israel
+1:0	
+Georgia
+70.	29.03.2011	Piraeus	Friendly	
+Greece
+0:0	
+Poland
+71.	29.03.2011	Amsterdam	QE-14	
+Netherlands
+5:3	
+Hungary
+72.	29.03.2011	Kyiv	Friendly	
+Ukraine
+0:2	
+Italy
+73.	29.03.2011	Kaunas	QE-14	
+Lithuania
+1:3	
+Spain
+74.	29.03.2011	Piatra Neamţ	QE-14	
+Romania
+3:1	
+Luxembourg
+75.	29.03.2011	Solna	QE-14	
+Sweden
+2:1	
+Moldova
+76.	29.03.2011	Belfast	QE-14	
+North. Ireland
+0:0	
+Slovenia
+77.	29.03.2011	Doha	Friendly	Qatar	1:1	
+Russia
+78.	29.03.2011	Dublin	Friendly	
+Rep. of Ireland
+2:3	Uruguay
+79.	24.05.2011	Dublin	CNC-1	
+Rep. of Ireland
+5:0	
+North. Ireland
+80.	25.05.2011	Dublin	CNC-1	
+Scotland
+3:1	
+Wales
+81.	27.05.2011	Dublin	CNC-1	
+North. Ireland
+0:2	
+Wales
+82.	29.05.2011	Sinsheim	Friendly	
+Germany
+2:1	Uruguay
+83.	29.05.2011	Dublin	CNC-1	
+Rep. of Ireland
+1:0	
+Scotland
+84.	01.06.2011	Kyiv	Friendly	
+Ukraine
+2:0	Uzbekistan
+85.	03.06.2011	Vienna	QE-14	
+Austria
+1:2	
+Germany
+86.	03.06.2011	Astana	QE-14	
+Kazakhstan
+2:1	
+Azerbaijan
+87.	03.06.2011	Minsk	QE-14	
+Belarus
+1:1	
+France
+88.	03.06.2011	Brussels	QE-14	
+Belgium
+1:1	
+Turkey
+89.	03.06.2011	Bucharest	QE-14	
+Romania
+3:0	
+Bosnia & Herzegovina
+90.	03.06.2011	Split	QE-14	
+Croatia
+2:1	
+Georgia
+91.	03.06.2011	Modena	QE-14	
+Italy
+3:0	
+Estonia
+92.	03.06.2011	Serravalle	QE-14	
+San Marino
+0:1	
+Finland
+93.	03.06.2011	Toftir	QE-14	
+Faroe Islands
+0:2	
+Slovenia
+94.	03.06.2011	Luxembourg City	Friendly	
+Luxembourg
+0:1	
+Hungary
+95.	03.06.2011	Vaduz	QE-14	
+Liechtenstein
+2:0	
+Lithuania
+96.	03.06.2011	Chișinău	QE-14	
+Moldova
+1:4	
+Sweden
+97.	03.06.2011	Seoul	Friendly	South Korea	2:1	
+Serbia
+98.	04.06.2011	Saint Petersburg	QE-14	
+Russia
+3:1	
+Armenia
+99.	04.06.2011	Bratislava	QE-14	
+Slovakia
+1:0	
+Andorra
+100.	04.06.2011	Podgorica	QE-14	
+Montenegro
+1:1	
+Bulgaria
+101.	04.06.2011	Reykjavík	QE-14	
+Iceland
+0:2	
+Denmark
+102.	04.06.2011	Matsumoto	KC-31	Peru	0:0	
+Czech Republic
+103.	04.06.2011	London	QE-14	
+England
+2:2	
+Switzerland
+104.	04.06.2011	Piraeus	QE-14	
+Greece
+3:1	
+Malta
+105.	04.06.2011	Rīga	QE-14	
+Latvia
+1:2	
+Israel
+106.	04.06.2011	Skopje	QE-14	
+Macedonia
+0:2	
+Rep. of Ireland
+107.	04.06.2011	Goiânia	Friendly	Brazil	0:0	
+Netherlands
+108.	04.06.2011	Lisbon	QE-14	
+Portugal
+1:0	
+Norway
+109.	04.06.2011	Foxborough	Friendly	United States	0:4	
+Spain
+110.	05.06.2011	Warsaw	Friendly	
+Poland
+2:1	Argentina
+111.	06.06.2011	Donetsk	Friendly	
+Ukraine
+1:4	
+France
+112.	07.06.2011	Zenica	QE-14	
+Bosnia & Herzegovina
+2:0	
+Albania
+113.	07.06.2011	Graz	Friendly	
+Austria
+3:1	
+Latvia
+114.	07.06.2011	Baku	QE-14	
+Azerbaijan
+1:3	
+Germany
+115.	07.06.2011	Minsk	QE-14	
+Belarus
+2:0	
+Luxembourg
+116.	07.06.2011	Yokohama	KC-31	Japan	0:0	
+Czech Republic
+117.	07.06.2011	Toftir	QE-14	
+Faroe Islands
+2:0	
+Estonia
+118.	07.06.2011	Solna	QE-14	
+Sweden
+5:0	
+Finland
+119.	07.06.2011	Serravalle	QE-14	
+San Marino
+0:3	
+Hungary
+120.	07.06.2011	Liège	Friendly	
+Italy
+0:2	
+Rep. of Ireland
+121.	07.06.2011	Oslo	Friendly	
+Norway
+1:0	
+Lithuania
+122.	07.06.2011	São Paulo	Friendly	Brazil	1:0	
+Romania
+123.	07.06.2011	Wals-Siezenheim	Friendly	Cameroon	0:0	
+Russia
+124.	07.06.2011	Melbourne	Friendly	Australia	0:0	
+Serbia
+125.	07.06.2011	Puerto de la Cruz	Friendly	Venezuela	0:3	
+Spain
+126.	08.06.2011	New York City	Friendly	Ecuador	1:1	
+Greece
+127.	08.06.2011	Montevideo	CCT	Uruguay	1:1	
+Netherlands
+128.	09.06.2011	Warsaw	Friendly	
+Poland
+0:1	
+France
+129.	12.06.2011	Asunción	Friendly	Paraguay	2:0	
+Romania
+130.	19.06.2011	Macul	Friendly	Chile	4:0	
+Estonia
+131.	20.06.2011	Buenos Aires	Friendly	Argentina	4:0	
+Albania
+132.	23.06.2011	Rivera	BSE	Uruguay	3:0	
+Estonia
+133.	10.08.2011	Shkodër	Friendly	
+Albania
+3:2	
+Montenegro
+134.	10.08.2011	Kaunas	Friendly	
+Lithuania
+3:0	
+Armenia
+135.	10.08.2011	Klagenfurt am Wörthersee	Friendly	
+Austria
+1:2	
+Slovakia
+136.	10.08.2011	Mardakan	Friendly	
+Azerbaijan
+0:1	
+Macedonia
+137.	10.08.2011	Minsk	Friendly	
+Belarus
+1:0	
+Bulgaria
+138.	10.08.2011	Ljubljana	Friendly	
+Slovenia
+0:0	
+Belgium
+139.	10.08.2011	Sarajevo	Friendly	
+Bosnia & Herzegovina
+0:0	
+Greece
+140.	10.08.2011	Dublin	Friendly	
+Rep. of Ireland
+0:0	
+Croatia
+141.	10.08.2011	Strovolos	Friendly	
+Cyprus
+3:2	
+Moldova
+142.	10.08.2011	Glasgow	Friendly	
+Scotland
+2:1	
+Denmark
+143.	10.08.2011	Oslo	Friendly	
+Norway
+3:0	
+Czech Republic
+144.	10.08.2011	Istanbul	Friendly	
+Turkey
+3:0	
+Estonia
+145.	10.08.2011	Stuttgart	Friendly	
+Germany
+3:2	Brazil
+146.	10.08.2011	Rīga	Friendly	
+Latvia
+0:2	
+Finland
+147.	10.08.2011	Belfast	QE-14	
+North. Ireland
+4:0	
+Faroe Islands
+148.	10.08.2011	Montpellier	Friendly	
+France
+1:1	Chile
+149.	10.08.2011	Lubin	Friendly	
+Poland
+1:0	
+Georgia
+150.	10.08.2011	Budapest	Friendly	
+Hungary
+4:0	
+Iceland
+151.	10.08.2011	Lancy	Friendly	Côte d`Ivoire	4:3	
+Israel
+152.	10.08.2011	Bari	Friendly	
+Italy
+2:1	
+Spain
+153.	10.08.2011	Astana	Friendly	
+Kazakhstan
+1:1	Syria
+154.	10.08.2011	Vaduz	Friendly	
+Liechtenstein
+1:2	
+Switzerland
+155.	10.08.2011	Loulé	Friendly	
+Portugal
+5:0	
+Luxembourg
+156.	10.08.2011	Attard	Friendly	
+Malta
+2:1	C.A.R.
+157.	10.08.2011	Moscow	Friendly	
+Russia
+1:0	
+Serbia
+158.	10.08.2011	Serravalle	Friendly	
+San Marino
+0:1	
+Romania
+159.	10.08.2011	Kharkiv	Friendly	
+Ukraine
+0:1	
+Sweden
+160.	10.08.2011	Cardiff	Friendly	
+Wales
+1:2	Australia
+161.	02.09.2011	Tirana	QE-14	
+Albania
+1:2	
+France
+162.	02.09.2011	Andorra la Vella	QE-14	
+Andorra
+0:3	
+Armenia
+163.	02.09.2011	Gelsenkirchen	QE-14	
+Germany
+6:2	
+Austria
+164.	02.09.2011	Baku	QE-14	
+Azerbaijan
+1:1	
+Belgium
+165.	02.09.2011	Minsk	QE-14	
+Belarus
+0:2	
+Bosnia & Herzegovina
+166.	02.09.2011	Sofia	QE-14	
+Bulgaria
+0:3	
+England
+167.	02.09.2011	Attard	QE-14	
+Malta
+1:3	
+Croatia
+168.	02.09.2011	Strovolos	QE-14	
+Cyprus
+0:4	
+Portugal
+169.	02.09.2011	Ljubljana	QE-14	
+Slovenia
+1:2	
+Estonia
+170.	02.09.2011	Helsinki	QE-14	
+Finland
+4:1	
+Moldova
+171.	02.09.2011	Tórshavn	QE-14	
+Faroe Islands
+0:1	
+Italy
+172.	02.09.2011	Tbilisi	QE-14	
+Georgia
+0:1	
+Latvia
+173.	02.09.2011	Tel Aviv	QE-14	
+Israel
+0:1	
+Greece
+174.	02.09.2011	Budapest	QE-14	
+Hungary
+2:1	
+Sweden
+175.	02.09.2011	Oslo	QE-14	
+Norway
+1:0	
+Iceland
+176.	02.09.2011	Istanbul	QE-14	
+Turkey
+2:1	
+Kazakhstan
+177.	02.09.2011	Kaunas	QE-14	
+Lithuania
+0:0	
+Liechtenstein
+178.	02.09.2011	Luxembourg City	QE-14	
+Luxembourg
+0:2	
+Romania
+179.	02.09.2011	Moscow	QE-14	
+Russia
+1:0	
+Macedonia
+180.	02.09.2011	Cardiff	QE-14	
+Wales
+2:1	
+Montenegro
+181.	02.09.2011	Eindhoven	QE-14	
+Netherlands
+11:0	
+San Marino
+182.	02.09.2011	Belfast	QE-14	
+North. Ireland
+0:1	
+Serbia
+183.	02.09.2011	Warsaw	Friendly	
+Poland
+1:1	Mexico
+184.	02.09.2011	Dublin	QE-14	
+Rep. of Ireland
+0:0	
+Slovakia
+185.	02.09.2011	Sankt Gallen	Friendly	Chile	2:3	
+Spain
+186.	02.09.2011	Kharkiv	Friendly	
+Ukraine
+2:3	Uruguay
+187.	03.09.2011	Glasgow	QE-14	
+Scotland
+2:2	
+Czech Republic
+188.	06.09.2011	Luxembourg City	QE-14	
+Luxembourg
+2:1	
+Albania
+189.	06.09.2011	Žilina	QE-14	
+Slovakia
+0:4	
+Armenia
+190.	06.09.2011	Vienna	QE-14	
+Austria
+0:0	
+Turkey
+191.	06.09.2011	Skopje	QE-14	
+Macedonia
+1:0	
+Andorra
+192.	06.09.2011	Baku	QE-14	
+Azerbaijan
+3:2	
+Kazakhstan
+193.	06.09.2011	Zenica	QE-14	
+Bosnia & Herzegovina
+1:0	
+Belarus
+194.	06.09.2011	Brussels	Friendly	
+Belgium
+1:0	United States
+195.	06.09.2011	Basel	QE-14	
+Switzerland
+3:1	
+Bulgaria
+196.	06.09.2011	Zagreb	QE-14	
+Croatia
+3:1	
+Israel
+197.	06.09.2011	Reykjavík	QE-14	
+Iceland
+1:0	
+Cyprus
+198.	06.09.2011	Copenhagen	QE-14	
+Denmark
+2:0	
+Norway
+199.	06.09.2011	Prague	Friendly	
+Czech Republic
+4:0	
+Ukraine
+200.	06.09.2011	London	QE-14	
+England
+1:0	
+Wales
+201.	06.09.2011	Tallinn	QE-14	
+Estonia
+4:1	
+North. Ireland
+202.	06.09.2011	Gdańsk	Friendly	
+Poland
+2:2	
+Germany
+203.	06.09.2011	Helsinki	QE-14	
+Finland
+0:2	
+Netherlands
+204.	06.09.2011	Belgrade	QE-14	
+Serbia
+3:1	
+Faroe Islands
+205.	06.09.2011	Bucharest	QE-14	
+Romania
+0:0	
+France
+206.	06.09.2011	Attard	QE-14	
+Malta
+1:1	
+Georgia
+207.	06.09.2011	Rīga	QE-14	
+Latvia
+1:1	
+Greece
+208.	06.09.2011	Chișinău	QE-14	
+Moldova
+0:2	
+Hungary
+209.	06.09.2011	Florence	QE-14	
+Italy
+1:0	
+Slovenia
+210.	06.09.2011	Logroño	QE-14	
+Spain
+6:0	
+Liechtenstein
+211.	06.09.2011	Glasgow	QE-14	
+Scotland
+1:0	
+Lithuania
+212.	06.09.2011	Moscow	QE-14	
+Russia
+0:0	
+Rep. of Ireland
+213.	06.09.2011	Serravalle	QE-14	
+San Marino
+0:5	
+Sweden
+214.	07.10.2011	Saint-Denis	QE-14	
+France
+3:0	
+Albania
+215.	07.10.2011	Yerevan	QE-14	
+Armenia
+4:1	
+Macedonia
+216.	07.10.2011	Mardakan	QE-14	
+Azerbaijan
+1:4	
+Austria
+217.	07.10.2011	Andorra la Vella	QE-14	
+Andorra
+0:2	
+Rep. of Ireland
+218.	07.10.2011	Bucharest	QE-14	
+Romania
+2:2	
+Belarus
+219.	07.10.2011	Brussels	QE-14	
+Belgium
+4:1	
+Kazakhstan
+220.	07.10.2011	Kyiv	Friendly	
+Ukraine
+3:0	
+Bulgaria
+221.	07.10.2011	Zenica	QE-14	
+Bosnia & Herzegovina
+5:0	
+Luxembourg
+222.	07.10.2011	Piraeus	QE-14	
+Greece
+2:0	
+Croatia
+223.	07.10.2011	Strovolos	QE-14	
+Cyprus
+1:4	
+Denmark
+224.	07.10.2011	Prague	QE-14	
+Czech Republic
+0:2	
+Spain
+225.	07.10.2011	Podgorica	QE-14	
+Montenegro
+2:2	
+England
+226.	07.10.2011	Belfast	QE-14	
+North. Ireland
+1:2	
+Estonia
+227.	07.10.2011	Istanbul	QE-14	
+Turkey
+1:3	
+Germany
+228.	07.10.2011	Helsinki	QE-14	
+Finland
+1:2	
+Sweden
+229.	07.10.2011	Porto	QE-14	
+Portugal
+5:3	
+Iceland
+230.	07.10.2011	Belgrade	QE-14	
+Serbia
+1:1	
+Italy
+231.	07.10.2011	Rīga	QE-14	
+Latvia
+2:0	
+Malta
+232.	07.10.2011	Rotterdam	QE-14	
+Netherlands
+1:0	
+Moldova
+233.	07.10.2011	Seoul	Friendly	South Korea	2:2	
+Poland
+234.	07.10.2011	Žilina	QE-14	
+Slovakia
+0:1	
+Russia
+235.	07.10.2011	Swansea	QE-14	
+Wales
+2:0	
+Switzerland
+236.	08.10.2011	Vaduz	QE-14	
+Liechtenstein
+0:1	
+Scotland
+237.	11.10.2011	Tirana	QE-14	
+Albania
+1:1	
+Romania
+238.	11.10.2011	Astana	QE-14	
+Kazakhstan
+0:0	
+Austria
+239.	11.10.2011	Moscow	QE-14	
+Russia
+6:0	
+Andorra
+240.	11.10.2011	Istanbul	QE-14	
+Turkey
+1:0	
+Azerbaijan
+241.	11.10.2011	Wiesbaden	Friendly	
+Belarus
+0:2	
+Poland
+242.	11.10.2011	Dusseldorf	QE-14	
+Germany
+3:1	
+Belgium
+243.	11.10.2011	Sofia	QE-14	
+Bulgaria
+0:1	
+Wales
+244.	11.10.2011	Saint-Denis	QE-14	
+France
+1:1	
+Bosnia & Herzegovina
+245.	11.10.2011	Rijeka	QE-14	
+Croatia
+2:0	
+Latvia
+246.	11.10.2011	Oslo	QE-14	
+Norway
+3:1	
+Cyprus
+247.	11.10.2011	Copenhagen	QE-14	
+Denmark
+2:1	
+Portugal
+248.	11.10.2011	Kaunas	QE-14	
+Lithuania
+1:4	
+Czech Republic
+249.	11.10.2011	Tallinn	Friendly	
+Estonia
+0:2	
+Ukraine
+250.	11.10.2011	Budapest	QE-14	
+Hungary
+0:0	
+Finland
+251.	11.10.2011	Tbilisi	QE-14	
+Georgia
+1:2	
+Greece
+252.	11.10.2011	Attard	QE-14	
+Malta
+0:2	
+Israel
+253.	11.10.2011	Pescara	QE-14	
+Italy
+3:0	
+North. Ireland
+254.	11.10.2011	Skopje	QE-14	
+Macedonia
+1:1	
+Slovakia
+255.	11.10.2011	Chișinău	QE-14	
+Moldova
+4:0	
+San Marino
+256.	11.10.2011	Basel	QE-14	
+Switzerland
+2:0	
+Montenegro
+257.	11.10.2011	Solna	QE-14	
+Sweden
+3:2	
+Netherlands
+258.	11.10.2011	Dublin	QE-14	
+Rep. of Ireland
+2:1	
+Armenia
+259.	11.10.2011	Maribor	QE-14	
+Slovenia
+1:0	
+Serbia
+260.	11.10.2011	Alicante	QE-14	
+Spain
+3:1	
+Scotland
+261.	11.11.2011	Liège	Friendly	
+Belgium
+2:1	
+Romania
+262.	11.11.2011	Zenica	QE-14	
+Bosnia & Herzegovina
+0:0	
+Portugal
+263.	11.11.2011	Istanbul	QE-14	
+Turkey
+0:3	
+Croatia
+264.	11.11.2011	Copenhagen	Friendly	
+Denmark
+2:0	
+Sweden
+265.	11.11.2011	Tallinn	QE-14	
+Estonia
+0:4	
+Rep. of Ireland
+266.	11.11.2011	Kyiv	Friendly	
+Ukraine
+3:3	
+Germany
+267.	11.11.2011	Saint-Denis	Friendly	
+France
+1:0	United States
+268.	11.11.2011	Piraeus	Friendly	
+Greece
+1:1	
+Russia
+269.	11.11.2011	Amsterdam	Friendly	
+Netherlands
+0:0	
+Switzerland
+270.	11.11.2011	Santiago de Querétaro	Friendly	Mexico	2:0	
+Serbia
+271.	11.11.2011	Prague	QE-14	
+Czech Republic
+2:0	
+Montenegro
+272.	11.11.2011	Tirana	Friendly	
+Albania
+0:1	
+Azerbaijan
+273.	11.11.2011	Wroclaw	Friendly	
+Poland
+0:2	
+Italy
+274.	11.11.2011	Larnaca	Friendly	
+Cyprus
+1:2	
+Scotland
+275.	11.11.2011	Tbilisi	Friendly	
+Georgia
+2:0	
+Moldova
+276.	11.11.2011	Budapest	Friendly	
+Hungary
+5:0	
+Liechtenstein
+277.	12.11.2011	Cardiff	Friendly	
+Wales
+4:1	
+Norway
+278.	12.11.2011	London	Friendly	
+England
+1:0	
+Spain
+279.	14.11.2011	San Pedro Sula	Friendly	Honduras	2:0	
+Serbia
+280.	15.11.2011	Lviv	Friendly	
+Ukraine
+2:1	
+Austria
+281.	15.11.2011	Lisbon	QE-14	
+Portugal
+6:2	
+Bosnia & Herzegovina
+282.	15.11.2011	Rome	Friendly	
+Italy
+0:1	Uruguay
+283.	15.11.2011	Dublin	QE-14	
+Rep. of Ireland
+1:1	
+Estonia
+284.	15.11.2011	Hamburg	Friendly	
+Germany
+3:0	
+Netherlands
+285.	15.11.2011	Saint-Denis	Friendly	
+France
+0:0	
+Belgium
+286.	15.11.2011	London	Friendly	
+England
+1:0	
+Sweden
+287.	15.11.2011	Luxembourg City	Friendly	
+Luxembourg
+0:1	
+Switzerland
+288.	15.11.2011	Prilep	Friendly	
+Macedonia
+0:0	
+Albania
+289.	15.11.2011	Altach	Friendly	
+Greece
+1:3	
+Romania
+290.	15.11.2011	Ljubljana	Friendly	
+Slovenia
+2:3	United States
+291.	15.11.2011	San José	Friendly	Costa Rica	2:2	
+Spain
+292.	15.11.2011	Zagreb	QE-14	
+Croatia
+0:0	
+Turkey
+293.	15.11.2011	Poznań	Friendly	
+Poland
+2:1	
+Hungary
+294.	15.11.2011	Podgorica	QE-14	
+Montenegro
+0:1	
+Czech Republic
+295.	15.11.2011	Dubai	Friendly	Libya	1:1	
+Belarus
+296.	15.11.2011	Esbjerg	Friendly	
+Denmark
+2:1	
+Finland
+297.	16.12.2011	Aksu	Friendly	Bosnia & Herzegovina*	0:1	
+Poland
+1.	17.01.2010	Nakhon Ratchasima	KGC-40	Denmark*	3:1	
+Poland
+2.	18.01.2010	Málaga	Friendly	South Korea	2:0	
+Finland
+3.	20.01.2010	Seeb	Friendly	Oman	0:1	
+Sweden
+4.	20.01.2010	Nakhon Ratchasima	KGC-40	Thailand	1:3	
+Poland
+5.	22.01.2010	Málaga	Friendly	South Korea	1:0	
+Latvia
+6.	23.01.2010	Damascus	Friendly	Syria	1:1	
+Sweden
+7.	23.01.2010	Nakhon Ratchasima	KGC-40	Singapore	1:6	
+Poland
+8.	25.02.2010	Amman	Friendly	Jordan	0:2	
+Azerbaijan
+9.	02.03.2010	London	Friendly	
+Rep. of Ireland
+0:2	Brazil
+10.	03.03.2010	Tirana	Friendly	
+Albania
+1:0	
+North. Ireland
+11.	03.03.2010	Attard	Friendly	
+Malta
+1:2	
+Finland
+12.	03.03.2010	Antalya	Friendly	
+Kazakhstan
+0:1	
+Moldova
+13.	03.03.2010	Luxembourg City	Friendly	
+Luxembourg
+1:2	
+Azerbaijan
+14.	03.03.2010	Skopje	Friendly	
+Macedonia
+2:1	
+Montenegro
+15.	03.03.2010	Coimbra	Friendly	
+Portugal
+2:0	China
+16.	03.03.2010	Tbilisi	Friendly	
+Georgia
+2:1	
+Estonia
+17.	03.03.2010	Žilina	Friendly	
+Slovakia
+0:1	
+Norway
+18.	03.03.2010	Luanda	Friendly	Angola	1:1	
+Latvia
+19.	03.03.2010	Swansea	Friendly	
+Wales
+0:1	
+Sweden
+20.	03.03.2010	Volos	Friendly	
+Greece
+0:2	Senegal
+21.	03.03.2010	Antalya	Friendly	
+Armenia
+1:3	
+Belarus
+22.	03.03.2010	Győr	Friendly	
+Hungary
+1:1	
+Russia
+23.	03.03.2010	Brussels	Friendly	
+Belgium
+0:1	
+Croatia
+24.	03.03.2010	Timişoara	Friendly	
+Romania
+0:2	
+Israel
+25.	03.03.2010	Saint-Denis	Friendly	
+France
+0:2	
+Spain
+26.	03.03.2010	Sarajevo	Friendly	
+Bosnia & Herzegovina
+2:1	Ghana
+27.	03.03.2010	Warsaw	Friendly	
+Poland
+2:0	
+Bulgaria
+28.	03.03.2010	Sankt Gallen	Friendly	
+Switzerland
+1:3	Uruguay
+29.	03.03.2010	Maribor	Friendly	
+Slovenia
+4:1	Qatar
+30.	03.03.2010	Larnaca	Friendly	
+Cyprus
+0:0	
+Iceland
+31.	03.03.2010	Amsterdam	Friendly	
+Netherlands
+2:1	United States
+32.	03.03.2010	Munich	Friendly	
+Germany
+0:1	Argentina
+33.	03.03.2010	Vienna	Friendly	
+Austria
+2:1	
+Denmark
+34.	03.03.2010	Monaco	Friendly	Cameroon	0:0	
+Italy
+35.	03.03.2010	Glasgow	Friendly	
+Scotland
+1:0	
+Czech Republic
+36.	03.03.2010	Istanbul	Friendly	
+Turkey
+2:0	Honduras
+37.	03.03.2010	London	Friendly	
+England
+3:1	Egypt
+38.	03.03.2010	Algiers	Friendly	Algeria	0:3	
+Serbia
+39.	21.03.2010	Kópavogur	Friendly	
+Iceland
+2:0	
+Faroe Islands
+40.	24.03.2010	Charlotte	Friendly	Mexico	0:0	
+Iceland
+41.	07.04.2010	Osaka	Friendly	Japan	0:3	
+Serbia
+42.	13.05.2010	Aachen	Friendly	
+Germany
+3:0	
+Malta
+43.	19.05.2010	Klagenfurt am Wörthersee	Friendly	
+Austria
+0:1	
+Croatia
+44.	19.05.2010	Brussels	Friendly	
+Belgium
+2:1	
+Bulgaria
+45.	21.05.2010	Tallinn	Friendly	
+Estonia
+2:0	
+Finland
+46.	22.05.2010	Harrison	Friendly	
+Czech Republic
+1:2	
+Turkey
+47.	23.05.2010	Osijek	Friendly	
+Croatia
+2:0	
+Wales
+48.	24.05.2010	Covilhã	Friendly	
+Portugal
+0:0	Cape Verde
+49.	24.05.2010	Johannesburg	Friendly	South Africa	1:1	
+Bulgaria
+50.	24.05.2010	London	Friendly	
+England
+3:1	Mexico
+51.	25.05.2010	Podgorica	Friendly	
+Montenegro
+0:1	
+Albania
+52.	25.05.2010	Altach	Friendly	North Korea	2:2	
+Greece
+53.	25.05.2010	Yerevan	Friendly	
+Armenia
+3:1	Uzbekistan
+54.	25.05.2010	Kharkiv	Friendly	
+Ukraine
+4:0	
+Lithuania
+55.	25.05.2010	Dublin	Friendly	
+Rep. of Ireland
+2:1	Paraguay
+56.	25.05.2010	Linz	Friendly	Cameroon	0:0	
+Georgia
+57.	25.05.2010	East Hartford	Friendly	United States	2:4	
+Czech Republic
+58.	26.05.2010	Seekirchen am Wallersee	Friendly	
+Azerbaijan
+1:1	
+Moldova
+59.	26.05.2010	Tallinn	Friendly	
+Estonia
+0:0	
+Croatia
+60.	26.05.2010	New Britain	Friendly	
+North. Ireland
+0:2	
+Turkey
+61.	26.05.2010	Freiburg im Breisgau	Friendly	Mexico	1:2	
+Netherlands
+62.	26.05.2010	Lens	Friendly	
+France
+2:1	Costa Rica
+63.	26.05.2010	Montevideo	BRC	Uruguay	4:1	
+Israel
+64.	27.05.2010	Villach	Friendly	Honduras	2:2	
+Belarus
+65.	27.05.2010	Aalborg	Friendly	
+Denmark
+2:0	Senegal
+66.	28.05.2010	Dublin	Friendly	
+Rep. of Ireland
+3:0	Algeria
+67.	29.05.2010	Anif	Friendly	U.A.E.	3:2	
+Moldova
+68.	29.05.2010	Bischofshofen	Friendly	
+Azerbaijan
+1:3	
+Macedonia
+69.	29.05.2010	Oslo	Friendly	
+Norway
+2:1	
+Montenegro
+70.	29.05.2010	Klagenfurt am Wörthersee	Friendly	Cameroon	1:1	
+Slovakia
+71.	29.05.2010	Solna	Friendly	
+Sweden
+4:2	
+Bosnia & Herzegovina
+72.	29.05.2010	Lviv	Friendly	
+Ukraine
+3:2	
+Romania
+73.	29.05.2010	Kielce	Friendly	
+Poland
+0:0	
+Finland
+74.	29.05.2010	Innsbruck	Friendly	Saudi Arabia	2:3	
+Spain
+75.	29.05.2010	Budapest	Friendly	
+Hungary
+0:3	
+Germany
+76.	29.05.2010	Reykjavík	Friendly	
+Iceland
+4:0	
+Andorra
+77.	29.05.2010	Philadelphia	Friendly	United States	2:1	
+Turkey
+78.	29.05.2010	Klagenfurt am Wörthersee	Friendly	New Zealand	1:0	
+Serbia
+79.	30.05.2010	Kufstein	Friendly	
+Belarus
+1:0	South Korea
+80.	30.05.2010	Chillán	Friendly	Chile	1:0	
+North. Ireland
+81.	30.05.2010	Rades	Friendly	Tunisia	1:1	
+France
+82.	30.05.2010	Graz	Friendly	Japan	1:2	
+England
+83.	30.05.2010	Concepción	Friendly	Chile	3:0	
+Israel
+84.	01.06.2010	Covilhã	Friendly	
+Portugal
+3:1	Cameroon
+85.	01.06.2010	Sion	Friendly	
+Switzerland
+0:1	Costa Rica
+86.	01.06.2010	Rotterdam	Friendly	
+Netherlands
+4:1	Ghana
+87.	01.06.2010	Johannesburg	Friendly	Australia	1:0	
+Denmark
+88.	02.06.2010	Tirana	Friendly	
+Albania
+1:0	
+Andorra
+89.	02.06.2010	Villach	Friendly	
+Romania
+0:1	
+Macedonia
+90.	02.06.2010	Minsk	Friendly	
+Belarus
+0:1	
+Sweden
+91.	02.06.2010	Winterthur	Friendly	Paraguay	2:0	
+Greece
+92.	02.06.2010	Oslo	Friendly	
+Norway
+0:1	
+Ukraine
+93.	02.06.2010	Zell am See	Friendly	Honduras	0:0	
+Azerbaijan
+94.	02.06.2010	Kufstein	Friendly	
+Poland
+0:0	
+Serbia
+95.	03.06.2010	Innsbruck	Friendly	South Korea	0:1	
+Spain
+96.	03.06.2010	Frankfurt am Main	Friendly	
+Germany
+3:1	
+Bosnia & Herzegovina
+97.	03.06.2010	Brussels	Friendly	Mexico	2:1	
+Italy
+98.	04.06.2010	Hesperange	Friendly	
+Luxembourg
+0:0	
+Faroe Islands
+99.	04.06.2010	Maribor	Friendly	
+Slovenia
+3:1	New Zealand
+100.	04.06.2010	Saint-Pierre	Friendly	
+France
+0:1	China
+101.	05.06.2010	Bratislava	Friendly	
+Slovakia
+3:0	Costa Rica
+102.	05.06.2010	Milton Keynes	Friendly	Ghana	1:0	
+Latvia
+103.	05.06.2010	Sankt Veit an der Glan	Friendly	Honduras	0:3	
+Romania
+104.	05.06.2010	Amsterdam	Friendly	
+Netherlands
+6:1	
+Hungary
+105.	05.06.2010	Lancy	Friendly	
+Switzerland
+1:1	
+Italy
+106.	05.06.2010	Pretoria	Friendly	South Africa	1:0	
+Denmark
+107.	05.06.2010	Belgrade	Friendly	
+Serbia
+4:3	Cameroon
+108.	08.06.2010	Johannesburg	Friendly	Mozambique	0:3	
+Portugal
+109.	08.06.2010	Murcia	Friendly	
+Spain
+6:0	
+Poland
+110.	11.06.2010	Cape Town	WC-19	Uruguay	0:0	
+France
+111.	12.06.2010	Port Elizabeth	WC-19	South Korea	2:0	
+Greece
+112.	12.06.2010	Phokeng	WC-19	United States	1:1	
+England
+113.	13.06.2010	Polokwane	WC-19	Algeria	0:1	
+Slovenia
+114.	13.06.2010	Durban	WC-19	Australia	0:4	
+Germany
+115.	13.06.2010	Pretoria	WC-19	Ghana	1:0	
+Serbia
+116.	14.06.2010	Johannesburg	WC-19	
+Denmark
+0:2	
+Netherlands
+117.	14.06.2010	Cape Town	WC-19	Paraguay	1:1	
+Italy
+118.	15.06.2010	Port Elizabeth	WC-19	
+Portugal
+0:0	Côte d`Ivoire
+119.	15.06.2010	Rustenburg	WC-19	New Zealand	1:1	
+Slovakia
+120.	16.06.2010	Durban	WC-19	
+Spain
+0:1	
+Switzerland
+121.	17.06.2010	Bloemfontein	WC-19	Nigeria	1:2	
+Greece
+122.	17.06.2010	Polokwane	WC-19	Mexico	2:0	
+France
+123.	18.06.2010	Kaunas	BtC-23	
+Lithuania
+0:0	
+Latvia
+124.	18.06.2010	Johannesburg	WC-19	United States	2:2	
+Slovenia
+125.	18.06.2010	Port Elizabeth	WC-19	
+Germany
+0:1	
+Serbia
+126.	18.06.2010	Cape Town	WC-19	Algeria	0:0	
+England
+127.	19.06.2010	Kaunas	BtC-23	
+Estonia
+0:0	
+Latvia
+128.	19.06.2010	Durban	WC-19	Japan	0:1	
+Netherlands
+129.	19.06.2010	Pretoria	WC-19	Cameroon	1:2	
+Denmark
+130.	20.06.2010	Kaunas	BtC-23	
+Lithuania
+2:0	
+Estonia
+131.	20.06.2010	Bloemfontein	WC-19	
+Slovakia
+0:2	Paraguay
+132.	20.06.2010	Mbombela	WC-19	New Zealand	1:1	
+Italy
+133.	21.06.2010	Cape Town	WC-19	
+Portugal
+7:0	North Korea
+134.	21.06.2010	Johannesburg	WC-19	Honduras	0:2	
+Spain
+135.	21.06.2010	Port Elizabeth	WC-19	Chile	1:0	
+Switzerland
+136.	22.06.2010	Polokwane	WC-19	Argentina	2:0	
+Greece
+137.	22.06.2010	Bloemfontein	WC-19	South Africa	2:1	
+France
+138.	23.06.2010	Port Elizabeth	WC-19	
+England
+1:0	
+Slovenia
+139.	23.06.2010	Johannesburg	WC-19	Ghana	0:1	
+Germany
+140.	23.06.2010	Mbombela	WC-19	Australia	2:1	
+Serbia
+141.	24.06.2010	Johannesburg	WC-19	
+Slovakia
+3:2	
+Italy
+142.	24.06.2010	Cape Town	WC-19	Cameroon	1:2	
+Netherlands
+143.	24.06.2010	Phokeng	WC-19	Japan	3:1	
+Denmark
+144.	25.06.2010	Durban	WC-19	Brazil	0:0	
+Portugal
+145.	25.06.2010	Pretoria	WC-19	Chile	1:2	
+Spain
+146.	25.06.2010	Bloemfontein	WC-19	Honduras	0:0	
+Switzerland
+147.	27.06.2010	Bloemfontein	WC-19	
+England
+1:4	
+Germany
+148.	28.06.2010	Durban	WC-19	
+Netherlands
+2:1	
+Slovakia
+149.	29.06.2010	Cape Town	WC-19	
+Portugal
+0:1	
+Spain
+150.	02.07.2010	Port Elizabeth	WC-19	Brazil	1:2	
+Netherlands
+151.	03.07.2010	Johannesburg	WC-19	Paraguay	0:1	
+Spain
+152.	03.07.2010	Cape Town	WC-19	Argentina	0:4	
+Germany
+153.	06.07.2010	Cape Town	WC-19	Uruguay	2:3	
+Netherlands
+154.	07.07.2010	Durban	WC-19	
+Germany
+0:1	
+Spain
+155.	10.07.2010	Port Elizabeth	WC-19	Uruguay	2:3	
+Germany
+156.	11.07.2010	Johannesburg	WC-19	
+Netherlands
+0:1	
+Spain
+157.	10.08.2010	Sarajevo	Friendly	
+Bosnia & Herzegovina
+1:1	Qatar
+158.	10.08.2010	London	Friendly	Côte d`Ivoire	1:0	
+Italy
+159.	11.08.2010	Durrës	Friendly	
+Albania
+1:0	Uzbekistan
+160.	11.08.2010	Attard	Friendly	
+Malta
+1:1	
+Macedonia
+161.	11.08.2010	Chișinău	Friendly	
+Moldova
+0:0	
+Georgia
+162.	11.08.2010	Llanelli	Friendly	
+Wales
+5:1	
+Luxembourg
+163.	11.08.2010	Podgorica	Friendly	
+Montenegro
+2:0	
+North. Ireland
+164.	11.08.2010	Tallinn	QE-14	
+Estonia
+2:1	
+Faroe Islands
+165.	11.08.2010	Bratislava	Friendly	
+Slovakia
+1:1	
+Croatia
+166.	11.08.2010	Liberec	Friendly	
+Czech Republic
+4:1	
+Latvia
+167.	11.08.2010	Solna	Friendly	
+Sweden
+3:0	
+Scotland
+168.	11.08.2010	Reykjavík	Friendly	
+Iceland
+1:1	
+Liechtenstein
+169.	11.08.2010	Belgrade	Friendly	
+Serbia
+0:1	
+Greece
+170.	11.08.2010	Yerevan	Friendly	
+Armenia
+1:3	Iran
+171.	11.08.2010	Donetsk	Friendly	
+Ukraine
+1:1	
+Netherlands
+172.	11.08.2010	Kaunas	Friendly	
+Lithuania
+0:2	
+Belarus
+173.	11.08.2010	Saint Petersburg	Friendly	
+Russia
+1:0	
+Bulgaria
+174.	11.08.2010	Oslo	Friendly	
+Norway
+2:1	
+France
+175.	11.08.2010	Istanbul	Friendly	
+Turkey
+2:0	
+Romania
+176.	11.08.2010	Turku	Friendly	
+Finland
+1:0	
+Belgium
+177.	11.08.2010	Mexico City	Friendly	Mexico	1:1	
+Spain
+178.	11.08.2010	Baku	Friendly	
+Azerbaijan
+1:1	Kuwait
+179.	11.08.2010	London	Friendly	
+England
+2:1	
+Hungary
+180.	11.08.2010	Klagenfurt am Wörthersee	Friendly	
+Austria
+0:1	
+Switzerland
+181.	11.08.2010	Ljubljana	Friendly	
+Slovenia
+2:0	Australia
+182.	11.08.2010	Szczecin	Friendly	
+Poland
+0:3	Cameroon
+183.	11.08.2010	Dublin	Friendly	
+Rep. of Ireland
+0:1	Argentina
+184.	11.08.2010	Larnaca	Friendly	
+Cyprus
+1:0	
+Andorra
+185.	11.08.2010	Astana	Friendly	
+Kazakhstan
+3:1	Oman
+186.	11.08.2010	Copenhagen	Friendly	
+Denmark
+2:2	
+Germany
+187.	02.09.2010	Ramat Gan	QE-14	
+Israel
+3:1	
+Malta
+188.	03.09.2010	Piatra Neamţ	QE-14	
+Romania
+1:1	
+Albania
+189.	03.09.2010	Chișinău	QE-14	
+Moldova
+2:0	
+Finland
+190.	03.09.2010	Luxembourg City	QE-14	
+Luxembourg
+0:3	
+Bosnia & Herzegovina
+191.	03.09.2010	Bratislava	QE-14	
+Slovakia
+1:0	
+Macedonia
+192.	03.09.2010	Podgorica	QE-14	
+Montenegro
+1:0	
+Wales
+193.	03.09.2010	Guimarães	QE-14	
+Portugal
+4:4	
+Cyprus
+194.	03.09.2010	Tallinn	QE-14	
+Estonia
+1:2	
+Italy
+195.	03.09.2010	Rīga	QE-14	
+Latvia
+0:3	
+Croatia
+196.	03.09.2010	Solna	QE-14	
+Sweden
+2:0	
+Hungary
+197.	03.09.2010	Vaduz	QE-14	
+Liechtenstein
+0:4	
+Spain
+198.	03.09.2010	Piraeus	QE-14	
+Greece
+1:1	
+Georgia
+199.	03.09.2010	Yerevan	QE-14	
+Armenia
+0:1	
+Rep. of Ireland
+200.	03.09.2010	Saint-Denis	QE-14	
+France
+0:1	
+Belarus
+201.	03.09.2010	Andorra la Vella	QE-14	
+Andorra
+0:2	
+Russia
+202.	03.09.2010	Reykjavík	QE-14	
+Iceland
+1:2	
+Norway
+203.	03.09.2010	Maribor	QE-14	
+Slovenia
+0:1	
+North. Ireland
+204.	03.09.2010	Serravalle	QE-14	
+San Marino
+0:5	
+Netherlands
+205.	03.09.2010	Brussels	QE-14	
+Belgium
+0:1	
+Germany
+206.	03.09.2010	London	QE-14	
+England
+4:0	
+Bulgaria
+207.	03.09.2010	Sankt Gallen	Friendly	
+Switzerland
+0:0	Australia
+208.	03.09.2010	Kaunas	QE-14	
+Lithuania
+0:0	
+Scotland
+209.	03.09.2010	Astana	QE-14	
+Kazakhstan
+0:3	
+Turkey
+210.	03.09.2010	Tórshavn	QE-14	
+Faroe Islands
+0:3	
+Serbia
+211.	04.09.2010	Łódź	Friendly	
+Poland
+1:1	
+Ukraine
+212.	07.09.2010	Tirana	QE-14	
+Albania
+1:0	
+Luxembourg
+213.	07.09.2010	Attard	QE-14	
+Malta
+0:2	
+Latvia
+214.	07.09.2010	Budapest	QE-14	
+Hungary
+2:1	
+Moldova
+215.	07.09.2010	Skopje	QE-14	
+Macedonia
+2:2	
+Armenia
+216.	07.09.2010	Sofia	QE-14	
+Bulgaria
+0:1	
+Montenegro
+217.	07.09.2010	Oslo	QE-14	
+Norway
+1:0	
+Portugal
+218.	07.09.2010	Tallinn	Friendly	
+Estonia
+3:3	Uzbekistan
+219.	07.09.2010	Moscow	QE-14	
+Russia
+0:1	
+Slovakia
+220.	07.09.2010	Malmö	QE-14	
+Sweden
+6:0	
+San Marino
+221.	07.09.2010	Glasgow	QE-14	
+Scotland
+2:1	
+Liechtenstein
+222.	07.09.2010	Zagreb	QE-14	
+Croatia
+0:0	
+Greece
+223.	07.09.2010	Kyiv	Friendly	
+Ukraine
+2:1	Chile
+224.	07.09.2010	Minsk	QE-14	
+Belarus
+0:0	
+Romania
+225.	07.09.2010	Rotterdam	QE-14	
+Netherlands
+2:1	
+Finland
+226.	07.09.2010	Istanbul	QE-14	
+Turkey
+3:2	
+Belgium
+227.	07.09.2010	Buenos Aires	Friendly	Argentina	4:1	
+Spain
+228.	07.09.2010	Sarajevo	QE-14	
+Bosnia & Herzegovina
+0:2	
+France
+229.	07.09.2010	Cologne	QE-14	
+Germany
+6:1	
+Azerbaijan
+230.	07.09.2010	Basel	QE-14	
+Switzerland
+1:3	
+England
+231.	07.09.2010	Belgrade	QE-14	
+Serbia
+1:1	
+Slovenia
+232.	07.09.2010	Kraków	Friendly	
+Poland
+1:2	Australia
+233.	07.09.2010	Dublin	QE-14	
+Rep. of Ireland
+3:1	
+Andorra
+234.	07.09.2010	Tbilisi	QE-14	
+Georgia
+0:0	
+Israel
+235.	07.09.2010	Copenhagen	QE-14	
+Denmark
+1:0	
+Iceland
+236.	07.09.2010	Olomouc	QE-14	
+Czech Republic
+0:1	
+Lithuania
+237.	07.09.2010	Wals-Siezenheim	QE-14	
+Austria
+2:0	
+Kazakhstan
+238.	07.09.2010	Florence	QE-14	
+Italy
+5:0	
+Faroe Islands
+239.	08.10.2010	Tirana	QE-14	
+Albania
+1:1	
+Bosnia & Herzegovina
+240.	08.10.2010	Tbilisi	QE-14	
+Georgia
+1:0	
+Malta
+241.	08.10.2010	Chișinău	QE-14	
+Moldova
+0:1	
+Netherlands
+242.	08.10.2010	Luxembourg City	QE-14	
+Luxembourg
+0:0	
+Belarus
+243.	08.10.2010	Andorra la Vella	QE-14	
+Andorra
+0:2	
+Macedonia
+244.	08.10.2010	Podgorica	QE-14	
+Montenegro
+1:0	
+Switzerland
+245.	08.10.2010	Porto	QE-14	
+Portugal
+3:1	
+Denmark
+246.	08.10.2010	Belgrade	QE-14	
+Serbia
+1:3	
+Estonia
+247.	08.10.2010	Yerevan	QE-14	
+Armenia
+3:1	
+Slovakia
+248.	08.10.2010	Piraeus	QE-14	
+Greece
+1:0	
+Latvia
+249.	08.10.2010	Kyiv	Friendly	
+Ukraine
+2:2	Canada
+250.	08.10.2010	Dublin	QE-14	
+Rep. of Ireland
+2:3	
+Russia
+251.	08.10.2010	Larnaca	QE-14	
+Cyprus
+1:2	
+Norway
+252.	08.10.2010	Belfast	QE-14	
+North. Ireland
+0:0	
+Italy
+253.	08.10.2010	Cardiff	QE-14	
+Wales
+0:1	
+Bulgaria
+254.	08.10.2010	Budapest	QE-14	
+Hungary
+8:0	
+San Marino
+255.	08.10.2010	Astana	QE-14	
+Kazakhstan
+0:2	
+Belgium
+256.	08.10.2010	Salamanca	QE-14	
+Spain
+3:1	
+Lithuania
+257.	08.10.2010	Vienna	QE-14	
+Austria
+3:0	
+Azerbaijan
+258.	08.10.2010	Ljubljana	QE-14	
+Slovenia
+5:1	
+Faroe Islands
+259.	08.10.2010	Berlin	QE-14	
+Germany
+3:0	
+Turkey
+260.	08.10.2010	Prague	QE-14	
+Czech Republic
+1:0	
+Scotland
+261.	09.10.2010	Ramat Gan	QE-14	
+Israel
+1:2	
+Croatia
+262.	09.10.2010	Saint-Denis	QE-14	
+France
+2:0	
+Romania
+263.	09.10.2010	Chicago	Friendly	United States	2:2	
+Poland
+264.	11.10.2010	Derby	Friendly	Brazil	2:0	
+Ukraine
+265.	12.10.2010	Minsk	QE-14	
+Belarus
+2:0	
+Albania
+266.	12.10.2010	Serravalle	QE-14	
+San Marino
+0:2	
+Moldova
+267.	12.10.2010	Metz	QE-14	
+France
+2:0	
+Luxembourg
+268.	12.10.2010	Skopje	QE-14	
+Macedonia
+0:1	
+Russia
+269.	12.10.2010	London	QE-14	
+England
+0:0	
+Montenegro
+270.	12.10.2010	Reykjavík	QE-14	
+Iceland
+1:3	
+Portugal
+271.	12.10.2010	Tallinn	QE-14	
+Estonia
+0:1	
+Slovenia
+272.	12.10.2010	Žilina	QE-14	
+Slovakia
+1:1	
+Rep. of Ireland
+273.	12.10.2010	Rīga	QE-14	
+Latvia
+1:1	
+Georgia
+274.	12.10.2010	Amsterdam	QE-14	
+Netherlands
+4:1	
+Sweden
+275.	12.10.2010	Vaduz	QE-14	
+Liechtenstein
+0:2	
+Czech Republic
+276.	12.10.2010	Piraeus	QE-14	
+Greece
+2:1	
+Israel
+277.	12.10.2010	Yerevan	QE-14	
+Armenia
+4:0	
+Andorra
+278.	12.10.2010	Zagreb	Friendly	
+Croatia
+2:1	
+Norway
+279.	12.10.2010	Toftir	QE-14	
+Faroe Islands
+1:1	
+North. Ireland
+280.	12.10.2010	Basel	QE-14	
+Switzerland
+4:1	
+Wales
+281.	12.10.2010	Helsinki	QE-14	
+Finland
+1:2	
+Hungary
+282.	12.10.2010	Brussels	QE-14	
+Belgium
+4:4	
+Austria
+283.	12.10.2010	Glasgow	QE-14	
+Scotland
+2:3	
+Spain
+284.	12.10.2010	Istanbul	Friendly	Saudi Arabia	0:2	
+Bulgaria
+285.	12.10.2010	Baku	QE-14	
+Azerbaijan
+1:0	
+Turkey
+286.	12.10.2010	Montréal	Friendly	Ecuador	2:2	
+Poland
+287.	12.10.2010	Astana	QE-14	
+Kazakhstan
+0:3	
+Germany
+288.	12.10.2010	Copenhagen	QE-14	
+Denmark
+2:0	
+Cyprus
+289.	12.10.2010	Genoa	QE-14	
+Italy
+0:0	
+Serbia
+290.	16.11.2010	Amman	Friendly	Jordan	0:0	
+Cyprus
+291.	16.11.2010	Aberdeen	Friendly	
+Scotland
+3:0	
+Faroe Islands
+292.	17.11.2010	Korçë	Friendly	
+Albania
+0:0	
+Macedonia
+293.	17.11.2010	Zagreb	QE-14	
+Croatia
+3:0	
+Malta
+294.	17.11.2010	Luxembourg City	Friendly	
+Luxembourg
+0:0	Algeria
+295.	17.11.2010	Podgorica	Friendly	
+Montenegro
+2:0	
+Azerbaijan
+296.	17.11.2010	Lisbon	Friendly	
+Portugal
+4:0	
+Spain
+297.	17.11.2010	Tallinn	Friendly	
+Estonia
+1:1	
+Liechtenstein
+298.	17.11.2010	Bratislava	Friendly	
+Slovakia
+2:3	
+Bosnia & Herzegovina
+299.	17.11.2010	Kunming	Friendly	China	1:0	
+Latvia
+300.	17.11.2010	Gothenburg	Friendly	
+Sweden
+0:0	
+Germany
+301.	17.11.2010	Vienna	Friendly	
+Austria
+1:2	
+Greece
+302.	17.11.2010	Lancy	Friendly	
+Switzerland
+2:2	
+Ukraine
+303.	17.11.2010	Seeb	Friendly	Oman	0:4	
+Belarus
+304.	17.11.2010	Voronezh	Friendly	
+Russia
+0:2	
+Belgium
+305.	17.11.2010	Dublin	Friendly	
+Rep. of Ireland
+1:2	
+Norway
+306.	17.11.2010	Belfast	Friendly	
+North. Ireland
+1:1	Morocco
+307.	17.11.2010	Helsinki	QE-14	
+Finland
+8:0	
+San Marino
+308.	17.11.2010	Klagenfurt am Wörthersee	Friendly	
+Italy
+1:1	
+Romania
+309.	17.11.2010	Sofia	Friendly	
+Bulgaria
+0:1	
+Serbia
+310.	17.11.2010	Székesfehérvár	Friendly	
+Hungary
+2:0	
+Lithuania
+311.	17.11.2010	Koper	Friendly	
+Slovenia
+1:2	
+Georgia
+312.	17.11.2010	Poznań	Friendly	
+Poland
+3:1	Côte d`Ivoire
+313.	17.11.2010	Tel Aviv	Friendly	
+Israel
+3:2	
+Iceland
+314.	17.11.2010	Amsterdam	Friendly	
+Netherlands
+1:0	
+Turkey
+315.	17.11.2010	London	Friendly	
+England
+1:2	
+France
+316.	17.11.2010	Aarhus	Friendly	
+Denmark
+0:0	
+Czech Republic
+317.	10.12.2010	Aksu	Friendly	
+Bosnia & Herzegovina
+2:2	
+Poland
+318.	18.12.2010	Zhuhai	Friendly	China	3:0	
+Estonia
+319.	22.12.2010	Guangzhou	Friendly	China	1:0	
+Macedonia
+320.	22.12.2010	Doha	Friendly	Qatar	2:0	
+Estonia
+. . .	.	.	.	.	.	
